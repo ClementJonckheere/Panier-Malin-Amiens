@@ -1,13 +1,11 @@
 <?php
 
 $baseUrl = 'https://www.supermarchesmatch.fr/fr/recherche?recherche=riz';
-$maxPages = 3;
 
-// Commande pour appeler le script Node.js avec le nombre de pages
-$command = "node scraper.js " . escapeshellarg($baseUrl) . " " . escapeshellarg($maxPages) . " 2>&1";
+// Commande pour appeler le script Node.js
+$command = "node supermarche_match_script.js " . escapeshellarg($baseUrl) . " 2>&1";
 $output = shell_exec($command);
 
-// Obtenir uniquement le JSON
 $jsonEnd = strrpos($output, ']');
 if ($jsonEnd !== false) {
     $output = substr($output, 0, $jsonEnd + 1);
