@@ -13,11 +13,9 @@ const maxPages = parseInt(process.argv[3]) || 1; // Nombre de pages à scraper (
     for (let i = 1; i <= maxPages; i++) {
         const url = `${baseUrl}&p=${i}`;
         await page.goto(url, { waitUntil: 'networkidle2' });
-
-        // Attendre que les éléments de produit soient chargés
         await page.waitForSelector('.vignette-grille-produit-component', { timeout: 60000 });
 
-        // Extraire les informations de produits de cette page
+        // Extraire les informations des produits
         const products = await page.evaluate(() => {
             const items = Array.from(document.querySelectorAll('.vignette-grille-produit-component'));
             return items.map(item => {
@@ -30,8 +28,6 @@ const maxPages = parseInt(process.argv[3]) || 1; // Nombre de pages à scraper (
         // Ajouter les produits de la page courante à la liste générale
         allProducts = allProducts.concat(products);
     }
-
-    // Afficher tous les produits en JSON
     console.log(JSON.stringify(allProducts, null, 2));
 
     await browser.close();

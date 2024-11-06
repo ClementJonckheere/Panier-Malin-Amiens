@@ -1,22 +1,20 @@
 <?php
 
-// URL de base pour le scraping
 $baseUrl = 'https://www.supermarchesmatch.fr/fr/recherche?recherche=riz';
-$maxPages = 3; // Nombre de pages à scraper
+$maxPages = 3;
 
 // Commande pour appeler le script Node.js avec le nombre de pages
 $command = "node scraper.js " . escapeshellarg($baseUrl) . " " . escapeshellarg($maxPages) . " 2>&1";
 $output = shell_exec($command);
 
-// Nettoyer la sortie pour obtenir uniquement le JSON
+// Obtenir uniquement le JSON
 $jsonEnd = strrpos($output, ']');
 if ($jsonEnd !== false) {
     $output = substr($output, 0, $jsonEnd + 1);
 }
 
-var_dump($output); // Affiche le JSON nettoyé pour vérification
+var_dump($output);
 
-// Tenter de décoder le JSON
 $products = json_decode($output, true);
 
 if (json_last_error() === JSON_ERROR_NONE) {
