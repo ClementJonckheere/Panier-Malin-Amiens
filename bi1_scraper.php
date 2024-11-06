@@ -11,11 +11,12 @@ $url = $baseUrl . urlencode($productName); // Utiliser urlencode pour gérer les
 
 // Construire la commande pour exécuter le script Node.js avec l'URL en paramètre
 $command = "node bi1_script.js " . escapeshellarg($url) . " 2>&1";
+
 // Exécuter le script Node.js et récupérer la sortie
 $output = shell_exec($command);
 
-// Afficher la sortie brute pour le débogage
-var_dump($output);
+// Afficher la sortie brute pour le débogage (facultatif)
+// var_dump($output);
 
 // Décoder la sortie JSON
 $products = json_decode($output, true);
@@ -33,5 +34,3 @@ if (json_last_error() === JSON_ERROR_NONE) {
     echo "Erreur de décodage JSON : " . json_last_error_msg();
 }
 
-
-?>

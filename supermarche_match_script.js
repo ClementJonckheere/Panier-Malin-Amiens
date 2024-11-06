@@ -36,7 +36,7 @@ const baseUrl = process.argv[2];
                 if (pricePerKgEntier && pricePerKgDevise && pricePerKgUnit) {
                     pricePerKg = pricePerKgEntier;
                     if (pricePerKgDecimal) {
-                        pricePerKg += `,${pricePerKgDecimal}`;
+                        pricePerKg += `${pricePerKgDecimal}`;
                     }
                     pricePerKg += ` ${pricePerKgDevise} ${pricePerKgUnit}`;
                 }
