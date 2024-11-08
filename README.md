@@ -8,9 +8,12 @@ Comparer les prix de divers produits entre plusieurs enseignes locales et ecomme
 1. **Docker** : pour gérer la base de données MySQL.
 2. **Node.js** et **npm** : pour exécuter le code en JavaScript et gérer les dépendances.
 
-Lancer Docker :
+### Lancer Docker :
 
-docker-compose up —build -d
+```bash
+docker-compose up -d
+
+```
 
 **(Si necessaire) Synchroniser le Modèle de Données** avec la base de données MySQL pour créer les tables :
 
