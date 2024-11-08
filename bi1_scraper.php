@@ -20,6 +20,26 @@ if (json_last_error() === JSON_ERROR_NONE) {
         echo "Prix par kg : " . $product['pricePerKg'] . PHP_EOL;
         echo "------------------" . PHP_EOL;
     }
+    $xmlFilePath = convertJsonToXml($products, "bi1"); 
+    echo "Données de produits enregistrées dans le fichier XML : $xmlFilePath\n";
 } else {
     echo "Erreur de décodage JSON : " . json_last_error_msg();
+}
+
+function convertJsonToXml($jsonData, $filename) {
+    $xml = new SimpleXMLElement('<products/>');
+
+    foreach ($jsonData as $product) {
+        $productNode = $xml->addChild('product');
+        $productNode->addChild('name', htmlspecialchars($product['name']));
+        $productNode->addChild('price', htmlspecialchars($product['price']));
+        $productNode->addChild('pricePerKg', htmlspecialchars($product['pricePerKg']));
+    }
+
+    $timestamp = date('Y-m-d_H-i-s');
+    $filePath = "data/{$filename}_{$timestamp}.xml";
+    
+    $xml->asXML($filePath);
+
+    return $filePath;
 }
