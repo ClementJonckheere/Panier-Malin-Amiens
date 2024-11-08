@@ -1,0 +1,15 @@
+{
+    "name": "clement/panier-malin-amiens",
+    "autoload": {
+        "psr-4": {
+            "Clement\\PanierMalinAmiens\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "clement",
+            "email": "clem.jonckheere@gmail.com"
+        }
+    ],
+    "require": {}
+}

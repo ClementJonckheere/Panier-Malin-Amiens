@@ -1,10 +1,18 @@
 version: '3.8'
-
 services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./panier_malin_amiens_api:/var/www/html
+    ports:
+      - "8000:8000"
+    networks:
+      - symfony-network
+
   db:
     image: mysql:5.7
-    container_name: panier_malin_db
-    restart: always
     environment:
       MYSQL_ROOT_PASSWORD: root
       MYSQL_DATABASE: panier_malin
@@ -12,18 +20,30 @@ services:
       MYSQL_PASSWORD: password
     ports:
       - "3306:3306"
-    volumes:
-      - db_data:/var/lib/mysql
+    networks:
+      - symfony-network
+
+  mailer:
+    image: axllent/mailpit
+    ports:
+      - "1025"
+      - "8025"
+    environment:
+      MP_SMTP_AUTH_ACCEPT_ANY: 1
+      MP_SMTP_AUTH_ALLOW_INSECURE: 1
 
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
-    container_name: panier_malin_phpmyadmin
-    restart: always
     environment:
       PMA_HOST: db
-      MYSQL_ROOT_PASSWORD: root
+      PMA_PORT: 3306
+      PMA_USER: user
+      PMA_PASSWORD: password
     ports:
       - "8080:80"
+    networks:
+      - symfony-network
 
-volumes:
-  db_data:
+networks:
+  symfony-network:
+    driver: bridge
