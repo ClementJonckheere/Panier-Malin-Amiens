@@ -27,10 +27,8 @@ if (json_last_error() === JSON_ERROR_NONE) {
 }
 
 function convertJsonToXml($jsonData, $filename) {
-    // Créez un nouvel objet SimpleXMLElement pour le fichier XML
     $xml = new SimpleXMLElement('<products/>');
 
-    // Parcourez les produits et ajoutez-les en tant qu'éléments XML
     foreach ($jsonData as $product) {
         $productNode = $xml->addChild('product');
         $productNode->addChild('name', htmlspecialchars($product['name']));
@@ -38,11 +36,9 @@ function convertJsonToXml($jsonData, $filename) {
         $productNode->addChild('pricePerKg', htmlspecialchars($product['pricePerKg']));
     }
 
-    // Ajoutez un timestamp au nom de fichier pour éviter les collisions
     $timestamp = date('Y-m-d_H-i-s');
     $filePath = "data/{$filename}_{$timestamp}.xml";
     
-    // Sauvegardez le fichier XML
     $xml->asXML($filePath);
 
     return $filePath;
