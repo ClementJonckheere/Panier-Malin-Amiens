@@ -23,7 +23,6 @@ const puppeteer = require('puppeteer');
         });
     });
 
-    // Retourner uniquement le JSON des produits sans console.log supplémentaire
     console.log(JSON.stringify(products));
 
     await browser.close();
