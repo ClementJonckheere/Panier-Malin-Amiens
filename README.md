@@ -15,6 +15,13 @@ docker-compose up -d
 
 ```
 
+### Lancer le serveur :
+
+```bash
+docker exec -it panier-malin-amiens-app-1 php -S 0.0.0.0:8000 -t public/
+
+```
+
 ### Pour commande symfony :
 
 ```bash
