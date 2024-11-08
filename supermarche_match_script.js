@@ -29,16 +29,15 @@ const baseUrl = process.argv[2];
                 const pricePerKgEntier = item.querySelector('.prix .entier')?.innerText.trim() || '';
                 const pricePerKgDecimal = item.querySelector('.prix .decimal')?.innerText.trim() || '';
                 const pricePerKgDevise = item.querySelector('.prix .devise')?.innerText.trim() || '';
-                const pricePerKgUnit = item.querySelector('.prix .parUnite')?.innerText.trim() || '';
 
                 // Construire le prix par kg complet sans double virgule
                 let pricePerKg = 'Prix par kg indisponible';
-                if (pricePerKgEntier && pricePerKgDevise && pricePerKgUnit) {
+                if (pricePerKgEntier && pricePerKgDevise) {
                     pricePerKg = pricePerKgEntier;
                     if (pricePerKgDecimal) {
                         pricePerKg += `${pricePerKgDecimal}`;
                     }
-                    pricePerKg += ` ${pricePerKgDevise} ${pricePerKgUnit}`;
+                    pricePerKg += ` ${pricePerKgDevise}`;
                 }
 
                 return { name, price, pricePerKg };
