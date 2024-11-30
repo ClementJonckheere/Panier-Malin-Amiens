@@ -3,7 +3,11 @@ const puppeteer = require('puppeteer');
 const baseUrl = process.argv[2];
 
 (async () => {
-    const browser = await puppeteer.launch();
+    const browser = await puppeteer.launch({
+        executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || '/usr/bin/chromium',
+        headless: true, // Utilisez headless pour éviter d'ouvrir une fenêtre
+        args: ['--no-sandbox', '--disable-setuid-sandbox'], // Nécessaire pour Puppeteer dans Docker
+    });
     const page = await browser.newPage();
 
     let allProducts = [];

@@ -1,32 +1,46 @@
 <?php
 
-$baseUrl = "https://www.bi1drive.fr/00110/search/?text=";
+$baseUrl = 'https://www.supermarchesmatch.fr/fr/recherche?recherche=';
+$productName = 'riz'; // Produit à rechercher
 
-$productName = "riz";
+$searchUrl = $baseUrl . urlencode($productName);
 
-$url = $baseUrl . urlencode($productName);
-
-$command = "node bi1_script.js " . escapeshellarg($url) . " 2>&1";
-
+// Commande pour exécuter le script Node.js
+$command = "node Panier-Malin-Amiens/supermarche_match_script.js " . escapeshellarg($searchUrl) . " 2>&1";
 $output = shell_exec($command);
+
+// Vérification des données JSON récupérées
+$jsonEnd = strrpos($output, ']');
+if ($jsonEnd !== false) {
+    $output = substr($output, 0, $jsonEnd + 1);
+}
 
 $products = json_decode($output, true);
 
 if (json_last_error() === JSON_ERROR_NONE) {
-    echo "Données de produits extraites :\n";
+    echo "Données de produits :\n";
     foreach ($products as $product) {
         echo "Nom du produit : " . $product['name'] . PHP_EOL;
         echo "Prix du produit : " . $product['price'] . PHP_EOL;
         echo "Prix par kg : " . $product['pricePerKg'] . PHP_EOL;
         echo "------------------" . PHP_EOL;
     }
-    $xmlFilePath = convertJsonToXml($products, "bi1"); 
+
+    // Création d'un fichier XML dans le dossier `data`
+    $xmlFilePath = convertJsonToXml($products, "supermarche_match");
     echo "Données de produits enregistrées dans le fichier XML : $xmlFilePath\n";
 } else {
-    echo "Erreur de décodage JSON : " . json_last_error_msg();
+    echo "Erreur de décodage JSON : " . json_last_error_msg() . "\n";
 }
 
+// Fonction pour convertir les données JSON en XML
 function convertJsonToXml($jsonData, $filename) {
+    // Vérification que le dossier `data` existe
+    $directory = __DIR__ . '/data';
+    if (!is_dir($directory)) {
+        mkdir($directory, 0777, true);
+    }
+
     $xml = new SimpleXMLElement('<products/>');
 
     foreach ($jsonData as $product) {
@@ -37,8 +51,8 @@ function convertJsonToXml($jsonData, $filename) {
     }
 
     $timestamp = date('Y-m-d_H-i-s');
-    $filePath = "data/{$filename}_{$timestamp}.xml";
-    
+    $filePath = $directory . "/{$filename}_{$timestamp}.xml";
+
     $xml->asXML($filePath);
 
     return $filePath;
