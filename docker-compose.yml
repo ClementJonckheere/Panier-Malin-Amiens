@@ -4,13 +4,16 @@ services:
       context: .
       dockerfile: Dockerfile
     volumes:
-      - ./:/var/www/html
-      - ./Panier-Malin-Amiens:/var/www/html/Panier-Malin-Amiens
-      - ./Panier-Malin-Amiens/data:/var/www/html/Panier-Malin-Amiens/data
+      - .:/var/www/html
+      - ./panier_malin_amiens_api:/var/www/html/api
+    working_dir: /var/www/html/api
     ports:
       - "8001:8000"
     networks:
       - symfony-network
+    command: php-fpm
+    environment:
+      - PHP_EXTRA_CONFIGURE_ARGS=--enable-pdo --with-pdo-mysql=mysqlnd
 
   db:
     image: mysql:5.7

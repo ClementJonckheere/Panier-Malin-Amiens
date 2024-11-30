@@ -6,7 +6,7 @@ $productName = "riz";
 $url = $baseUrl . urlencode($productName);
 
 // Exécution du script Node.js
-$command = "node Panier-Malin-Amiens/bi1_script.js " . escapeshellarg($url) . " 2>&1";
+$command = "node /var/www/html/Panier-Malin-Amiens/bi1_script.js " . escapeshellarg($url) . " 2>&1";
 $output = shell_exec($command);
 
 echo "Données brutes récupérées :\n";

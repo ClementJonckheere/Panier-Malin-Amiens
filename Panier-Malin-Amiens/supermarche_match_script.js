@@ -16,32 +16,38 @@ const baseUrl = process.argv[2];
     while (true) {
         const url = `${baseUrl}&p=${pageIndex}`;
         await page.goto(url, { waitUntil: 'networkidle2' });
+
+        // Ajout d'un délai pour permettre à la page de charger complètement
+        await new Promise(resolve => setTimeout(resolve, 3000));
+
         try {
             await page.waitForSelector('.vignette-grille-produit-component', { timeout: 10000 });
         } catch (error) {
+            console.error(`Page ${pageIndex} ne contient pas les produits ou n'est pas accessible.`);
             break;
         }
 
-        // Extraire les informations des produits
         const products = await page.evaluate(() => {
             const items = Array.from(document.querySelectorAll('.vignette-grille-produit-component'));
             return items.map(item => {
+                // Nom du produit
                 const name = item.querySelector('.label-container.link a')?.getAttribute('alt') || item.querySelector('.label-container.link a')?.innerText || 'Nom indisponible';
-                const price = item.querySelector('.prix-block')?.innerText.trim() || 'Prix indisponible';
 
-                // Extraire le prix par kilogramme (ou par unité) si disponible
-                const pricePerKgEntier = item.querySelector('.prix .entier')?.innerText.trim() || '';
-                const pricePerKgDecimal = item.querySelector('.prix .decimal')?.innerText.trim() || '';
-                const pricePerKgDevise = item.querySelector('.prix .devise')?.innerText.trim() || '';
+                // Prix du produit (entier, décimal, devise)
+                const priceEntier = item.querySelector('.prix-block .prix-unitaire .entier')?.innerText.trim() || '';
+                const priceDecimal = item.querySelector('.prix-block .prix-unitaire .decimal')?.innerText.trim() || '';
+                const priceDevise = item.querySelector('.prix-block .prix-unitaire .devise')?.innerText.trim() || '';
+                let price = 'Prix indisponible';
+                if (priceEntier) {
+                    price = `${priceEntier}${priceDecimal}`;
+                }
 
-                // Construire le prix par kg complet sans double virgule
+                // Prix par kilogramme ou unité
+                const pricePerKgEntier = item.querySelector('.prixKg .prix .entier')?.innerText.trim() || '';
+                const pricePerKgDecimal = item.querySelector('.prixKg .prix .decimal')?.innerText.trim() || '';
                 let pricePerKg = 'Prix par kg indisponible';
-                if (pricePerKgEntier && pricePerKgDevise) {
-                    pricePerKg = pricePerKgEntier;
-                    if (pricePerKgDecimal) {
-                        pricePerKg += `${pricePerKgDecimal}`;
-                    }
-                    pricePerKg += ` ${pricePerKgDevise}`;
+                if (pricePerKgEntier) {
+                    pricePerKg = `${pricePerKgEntier}${pricePerKgDecimal}`;
                 }
 
                 return { name, price, pricePerKg };
@@ -49,6 +55,7 @@ const baseUrl = process.argv[2];
         });
 
         if (products.length === 0) {
+            console.log(`Aucun produit trouvé sur la page ${pageIndex}.`);
             break;
         }
         allProducts = allProducts.concat(products);
