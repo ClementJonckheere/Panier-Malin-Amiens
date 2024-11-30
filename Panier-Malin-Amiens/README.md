@@ -15,19 +15,24 @@ docker-compose up -d
 
 ```
 
-**(Si necessaire) Synchroniser le Modèle de Données** avec la base de données MySQL pour créer les tables :
+### Lancer le serveur :
 
 ```bash
-node script/sync.js
+docker exec -it panier-malin-amiens-app-1 php -S 0.0.0.0:8000 -t public/
 
 ```
 
-### Vérification de la Connexion
-
-Pour vérifier que la connexion et la table sont correctement configurées, vous pouvez vous connecter à MySQL via Docker :
+### Pour commande symfony :
 
 ```bash
-docker exec -it panier_malin_db mysql -u root -p
+docker exec -it panier-malin-amiens-app-1 php bin/console make:
 
 ```
 
+OU
+
+```bash
+docker exec -it panier-malin-amiens-app-1 php bin/console doctrine:
+
+
+```
