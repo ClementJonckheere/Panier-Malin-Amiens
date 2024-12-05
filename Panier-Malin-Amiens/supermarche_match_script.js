@@ -1,6 +1,7 @@
 const puppeteer = require('puppeteer');
 
-const baseUrl = process.argv[2];
+const baseUrl = process.argv[2]; // URL de recherche
+const productType = process.argv[3]; // Type de produit (riz, lait, etc.)
 
 (async () => {
     const browser = await puppeteer.launch({
@@ -27,42 +28,33 @@ const baseUrl = process.argv[2];
             break;
         }
 
-        const products = await page.evaluate(() => {
+        const products = await page.evaluate((productType) => {
             const items = Array.from(document.querySelectorAll('.vignette-grille-produit-component'));
             return items.map(item => {
-                // Nom du produit
                 const name = item.querySelector('.label-container.link a')?.getAttribute('alt') || item.querySelector('.label-container.link a')?.innerText || 'Nom indisponible';
 
-                // Prix du produit (entier, décimal, devise)
                 const priceEntier = item.querySelector('.prix-block .prix-unitaire .entier')?.innerText.trim() || '';
                 const priceDecimal = item.querySelector('.prix-block .prix-unitaire .decimal')?.innerText.trim() || '';
                 const priceDevise = item.querySelector('.prix-block .prix-unitaire .devise')?.innerText.trim() || '';
-                let price = 'Prix indisponible';
-                if (priceEntier) {
-                    price = `${priceEntier}${priceDecimal}`;
-                }
+                const price = priceEntier ? `${priceEntier}${priceDecimal}` : 'Prix indisponible';
 
-                // Prix par kilogramme ou unité
                 const pricePerKgEntier = item.querySelector('.prixKg .prix .entier')?.innerText.trim() || '';
                 const pricePerKgDecimal = item.querySelector('.prixKg .prix .decimal')?.innerText.trim() || '';
-                let pricePerKg = 'Prix par kg indisponible';
-                if (pricePerKgEntier) {
-                    pricePerKg = `${pricePerKgEntier}${pricePerKgDecimal}`;
-                }
+                const pricePerKg = pricePerKgEntier ? `${pricePerKgEntier}${pricePerKgDecimal}` : 'Prix par kg indisponible';
 
-                return { name, price, pricePerKg };
+                return { name, price, pricePerKg, type: productType };
             });
-        });
+        }, productType);
 
         if (products.length === 0) {
-            console.log(`Aucun produit trouvé sur la page ${pageIndex}.`);
+            console.log(`Aucun produit trouvé pour ${productType} sur la page ${pageIndex}.`);
             break;
         }
+
         allProducts = allProducts.concat(products);
         pageIndex++;
     }
 
     console.log(JSON.stringify(allProducts, null, 2));
-
     await browser.close();
 })();

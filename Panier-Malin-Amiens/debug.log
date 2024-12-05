@@ -1,0 +1,8 @@
+Sortie brute du script Node.js:
+Scraping for type: riz
+Erreur pendant le scraping : TypeError: page.waitForTimeout is not a function
+    at /var/www/html/Panier-Malin-Amiens/supermarche_match_script.js:27:28
+[]
+
+Erreur de décodage JSON:
+Syntax error

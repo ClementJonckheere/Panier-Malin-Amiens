@@ -1,75 +1,99 @@
 <?php
 
 $baseUrl = "https://www.bi1drive.fr/00110/search/?text=";
-$productName = "riz";
+$productTypes = ['riz', 'lait', 'oeufs', 'farine']; // Liste des types de produits
 
-$url = $baseUrl . urlencode($productName);
+$allProducts = []; // Stocker tous les produits de tous les types
 
-// Exécution du script Node.js
-$command = "node /var/www/html/Panier-Malin-Amiens/bi1_script.js " . escapeshellarg($url) . " 2>&1";
-$output = shell_exec($command);
+foreach ($productTypes as $productType) {
+    $searchUrl = $baseUrl . urlencode($productType);
 
-echo "Données brutes récupérées :\n";
-echo $output . "\n";
+    // Commande pour exécuter le script Node.js
+    $command = "node /var/www/html/Panier-Malin-Amiens/bi1_script.js " . escapeshellarg($searchUrl) . " 2>&1";
+    $output = shell_exec($command);
 
-// Décodage JSON
-$products = json_decode($output, true);
+    // Affichez la sortie brute pour diagnostiquer les problèmes
+    echo "Sortie brute de Node.js pour $productType :\n";
+    echo $output . "\n";
 
-// Vérification des erreurs JSON
-if (json_last_error() !== JSON_ERROR_NONE) {
-    die("Erreur de décodage JSON : " . json_last_error_msg() . "\n");
-}
-
-// Chemin absolu du dossier data
-$absolutePath = '/var/www/html/Panier-Malin-Amiens/data/';
-
-// Vérification du répertoire 'data'
-if (!is_dir($absolutePath)) {
-    echo "Le dossier 'data' n'existe pas au chemin absolu : $absolutePath. Création...\n";
-    if (!mkdir($absolutePath, 0777, true)) {
-        die("Impossible de créer le dossier 'data'. Vérifiez les permissions.\n");
+    // Nettoyer la sortie brute pour ne garder que le JSON
+    $jsonStart = strpos($output, '['); // Trouver le début de l'objet JSON
+    if ($jsonStart !== false) {
+        $output = substr($output, $jsonStart); // Extraire uniquement la partie JSON
+    } else {
+        echo "Erreur : Aucun JSON détecté dans la sortie pour $productType.\n";
+        continue;
     }
+
+    // Vérifiez si la sortie est bien formatée en JSON
+    $products = json_decode($output, true);
+    if (json_last_error() !== JSON_ERROR_NONE) {
+        echo "Erreur de décodage JSON pour $productType : " . json_last_error_msg() . "\n";
+        echo "Sortie brute nettoyée :\n" . $output . "\n";
+        continue;
+    }
+
+    // Ajouter le type au produit
+    foreach ($products as &$product) {
+        $product['type'] = $productType; // Ajoute le type directement dans le produit
+    }
+
+    $allProducts = array_merge($allProducts, $products);
 }
 
-// Test d'écriture dans le répertoire
-if (!file_put_contents($absolutePath . 'test.txt', 'Test d\'écriture')) {
-    die("Impossible d'écrire dans le répertoire 'data'. Vérifiez les permissions.\n");
+// Vérifiez les données finales
+echo "Données de tous les produits avant la génération du fichier XML :\n";
+print_r($allProducts);
+
+// Création d'un fichier XML dans le dossier `data`
+$absolutePath = '/var/www/html/Panier-Malin-Amiens/data/';
+if (!is_dir($absolutePath)) {
+    mkdir($absolutePath, 0777, true);
 }
 
-echo "Répertoire courant : " . getcwd() . PHP_EOL;
-
-// Conversion des données JSON en XML
-$xmlFilePath = convertJsonToXml($products, "bi1", $absolutePath);
-echo "Données de produits enregistrées dans le fichier XML : $xmlFilePath\n";
-
-// Affichage des produits
-echo "Données de produits extraites :\n";
-foreach ($products as $product) {
-    echo "Nom du produit : " . $product['name'] . PHP_EOL;
-    echo "Prix du produit : " . $product['price'] . PHP_EOL;
-    echo "Prix par kg : " . $product['pricePerKg'] . PHP_EOL;
-    echo "------------------" . PHP_EOL;
+$xmlFilePath = createXmlWithDom($allProducts, "bi1", $absolutePath);
+if (!$xmlFilePath) {
+    echo "Le fichier XML n'a pas été généré.\n";
+} else {
+    echo "Le fichier XML a été enregistré à l'emplacement : $xmlFilePath\n";
 }
 
-/**
- * Fonction pour convertir un tableau JSON en fichier XML.
- */
-function convertJsonToXml($jsonData, $filename, $absolutePath) {
-    $xml = new SimpleXMLElement('<products/>');
+// Fonction pour convertir les données JSON en XML avec DOMDocument
+function createXmlWithDom($jsonData, $filename, $absolutePath) {
+    // Vérification que les données ne sont pas vides
+    if (empty($jsonData)) {
+        echo "Aucune donnée à écrire dans le fichier XML.\n";
+        return false;
+    }
+
+    // Initialisation de DOMDocument
+    $dom = new DOMDocument('1.0', 'UTF-8');
+    $dom->formatOutput = true;
+
+    // Élément racine
+    $root = $dom->createElement('products');
+    $dom->appendChild($root);
 
     foreach ($jsonData as $product) {
-        $productNode = $xml->addChild('product');
-        $productNode->addChild('name', htmlspecialchars($product['name']));
-        $productNode->addChild('price', htmlspecialchars($product['price']));
-        $productNode->addChild('pricePerKg', htmlspecialchars($product['pricePerKg']));
+        $productNode = $dom->createElement('product');
+
+        // Ajouter les sous-éléments
+        foreach ($product as $key => $value) {
+            $childNode = $dom->createElement($key, htmlspecialchars($value));
+            $productNode->appendChild($childNode);
+        }
+
+        $root->appendChild($productNode);
     }
 
     $timestamp = date('Y-m-d_H-i-s');
-    $filePath = "{$absolutePath}{$filename}_{$timestamp}.xml";
+    $filePath = $absolutePath . "{$filename}_{$timestamp}.xml";
 
-    if (!$xml->asXML($filePath)) {
-        die("Erreur lors de l'écriture du fichier XML : $filePath\n");
+    // Écriture dans le fichier
+    if ($dom->save($filePath)) {
+        return $filePath;
+    } else {
+        echo "Erreur lors de l'écriture du fichier XML : $filePath\n";
+        return false;
     }
-
-    return $filePath;
 }
