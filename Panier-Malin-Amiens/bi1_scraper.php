@@ -8,7 +8,7 @@ $allProducts = []; // Stocker tous les produits de tous les types
 foreach ($productTypes as $productType) {
     $searchUrl = $baseUrl . urlencode($productType);
 
-    // Commande pour exécuter le script Node.js
+    // Commande pour exécuter le scripts Node.js
     $command = "node /var/www/html/Panier-Malin-Amiens/bi1_script.js " . escapeshellarg($searchUrl) . " 2>&1";
     $output = shell_exec($command);
 
