@@ -1,0 +1,3255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <name>Riz Basmati</name>
+    <price>2,95</price>
+    <pricePerKg>2,95</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Basmati</name>
+    <price>2,22</price>
+    <pricePerKg>4,44</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Basmati</name>
+    <price>1,64</price>
+    <pricePerKg>3,28</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Basmati naturellement parfumé 10'</name>
+    <price>3,30</price>
+    <pricePerKg>3,67</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz 10 min Basmati sélection</name>
+    <price>2,15</price>
+    <pricePerKg>4,78</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Basmati BIO</name>
+    <price>2,24</price>
+    <pricePerKg>4,48</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Basmati BIO</name>
+    <price>3,50</price>
+    <pricePerKg>7,00</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Basmati du Penjab</name>
+    <price>4,59</price>
+    <pricePerKg>4,59</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz basmati du Penjab</name>
+    <price>2,52</price>
+    <pricePerKg>5,04</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz long grain sachet cuisson 10min</name>
+    <price>1,99</price>
+    <pricePerKg>3,98</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz long grain cuisson rapide vrac 10 min</name>
+    <price>1,99</price>
+    <pricePerKg>3,98</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz long grain tradition vrac 20min</name>
+    <price>3,65</price>
+    <pricePerKg>3,65</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz long grain cuisson rapide vrac 10 min</name>
+    <price>3,35</price>
+    <pricePerKg>3,35</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz long grain cuisson rapide 10 min x 5</name>
+    <price>3,35</price>
+    <pricePerKg>3,35</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz long grain cuisson 10 mn</name>
+    <price>1,32</price>
+    <pricePerKg>2,64</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz long grain</name>
+    <price>1,99</price>
+    <pricePerKg>1,99</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz long grain cuisson 10 mn</name>
+    <price>2,19</price>
+    <pricePerKg>2,19</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz étuvé long grain cuisson 10 mn</name>
+    <price>2,00</price>
+    <pricePerKg>2,00</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz étuvé 10min x 5</name>
+    <price>1,59</price>
+    <pricePerKg>3,53</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz étuvé 10min x 5</name>
+    <price>2,69</price>
+    <pricePerKg>2,99</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz 5min x 5</name>
+    <price>1,75</price>
+    <pricePerKg>3,89</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz complet cuisson rapide vrac 12min</name>
+    <price>2,29</price>
+    <pricePerKg>4,58</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz semi-complet</name>
+    <price>2,29</price>
+    <pricePerKg>4,58</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Risotto expresso aux champignons</name>
+    <price>2,85</price>
+    <pricePerKg>11,40</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Risotto pronto alla milanese. Au safran</name>
+    <price>2,85</price>
+    <pricePerKg>11,40</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Bonta pronte riz basmati avec riz noir et riz rouge</name>
+    <price>2,85</price>
+    <pricePerKg>11,40</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Risotto pronto  Aux cèpes</name>
+    <price>2,66</price>
+    <pricePerKg>12,67</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Melange sélection de 3 riz</name>
+    <price>2,57</price>
+    <pricePerKg>5,14</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Sélection 3 riz</name>
+    <price>2,66</price>
+    <pricePerKg>5,32</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz parfumé prenium le kamâlis</name>
+    <price>2,95</price>
+    <pricePerKg>5,90</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz kamalis</name>
+    <price>3,80</price>
+    <pricePerKg>5,07</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Le riz parfumé sélection exclusive . Le délicat</name>
+    <price>3,69</price>
+    <pricePerKg>3,69</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Le riz parfumé</name>
+    <price>2,20</price>
+    <pricePerKg>4,40</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Tikka masala micro ondable 100 % végétal</name>
+    <price>2,89</price>
+    <pricePerKg>10,14</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Dahl micro ondable méditerranéen 100 % végétal</name>
+    <price>2,89</price>
+    <pricePerKg>10,14</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Chili veggie micro ondable 100 % végétale</name>
+    <price>2,89</price>
+    <pricePerKg>10,14</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz long grain 2 min</name>
+    <price>1,59</price>
+    <pricePerKg>7,23</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz basmati 2min</name>
+    <price>1,49</price>
+    <pricePerKg>6,77</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz à la méditerranéenne 2 min</name>
+    <price>1,79</price>
+    <pricePerKg>8,14</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz cantonais 2 min</name>
+    <price>1,79</price>
+    <pricePerKg>8,14</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz au curry et légumes 2 min</name>
+    <price>1,79</price>
+    <pricePerKg>8,14</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz basmati micro ondable 2min</name>
+    <price>1,77</price>
+    <pricePerKg>7,08</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz tomate et huile d'olive 2 min</name>
+    <price>1,79</price>
+    <pricePerKg>8,14</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz aux champignons de paris 2 min</name>
+    <price>1,79</price>
+    <pricePerKg>8,14</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz citron et romarin 2 min</name>
+    <price>1,79</price>
+    <pricePerKg>8,14</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz légumes du soleil 2mn</name>
+    <price>1,79</price>
+    <pricePerKg>8,14</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz façon paëlla 2 min</name>
+    <price>1,79</price>
+    <pricePerKg>8,14</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz façon paëlla</name>
+    <price>1,35</price>
+    <pricePerKg>5,40</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz à la Méditerranéenne</name>
+    <price>1,22</price>
+    <pricePerKg>4,88</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Basmati</name>
+    <price>1,10</price>
+    <pricePerKg>4,40</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Doypack riz basmati nature 2min</name>
+    <price>2,35</price>
+    <pricePerKg>9,40</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Doypack riz basmati tomate et légumes du soleil 2mn</name>
+    <price>2,26</price>
+    <pricePerKg>9,04</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Doypack riz basmati épices du monde 2mn</name>
+    <price>2,26</price>
+    <pricePerKg>9,04</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Doypack basmati tomate et légumes du soleil 2mn</name>
+    <price>1,89</price>
+    <pricePerKg>8,59</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Doypack basmati riz nature 2min</name>
+    <price>1,89</price>
+    <pricePerKg>8,59</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Doypack basmati épices du monde 2mn</name>
+    <price>1,89</price>
+    <pricePerKg>8,59</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz rond dessert</name>
+    <price>2,35</price>
+    <pricePerKg>2,35</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz arborio pour risotto</name>
+    <price>1,92</price>
+    <pricePerKg>3,84</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz blanc pour risotto</name>
+    <price>2,95</price>
+    <pricePerKg>5,90</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz pour risotto</name>
+    <price>3,79</price>
+    <pricePerKg>3,79</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz arborio bio</name>
+    <price>3,96</price>
+    <pricePerKg>7,92</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz pour risotto</name>
+    <price>2,22</price>
+    <pricePerKg>4,44</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz  spécial risotto BIO</name>
+    <price>2,84</price>
+    <pricePerKg>5,68</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Thaï</name>
+    <price>2,64</price>
+    <pricePerKg>2,64</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Thai BIO</name>
+    <price>3,50</price>
+    <pricePerKg>7,00</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Thai</name>
+    <price>3,99</price>
+    <pricePerKg>3,99</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz thaï de l'isan</name>
+    <price>2,35</price>
+    <pricePerKg>4,70</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Basmati</name>
+    <price>2,95</price>
+    <pricePerKg>2,95</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Basmati</name>
+    <price>2,22</price>
+    <pricePerKg>4,44</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Basmati</name>
+    <price>1,64</price>
+    <pricePerKg>3,28</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Basmati naturellement parfumé 10'</name>
+    <price>3,30</price>
+    <pricePerKg>3,67</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz 10 min Basmati sélection</name>
+    <price>2,15</price>
+    <pricePerKg>4,78</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Basmati BIO</name>
+    <price>2,24</price>
+    <pricePerKg>4,48</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Basmati BIO</name>
+    <price>3,50</price>
+    <pricePerKg>7,00</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Basmati du Penjab</name>
+    <price>4,59</price>
+    <pricePerKg>4,59</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz basmati du Penjab</name>
+    <price>2,52</price>
+    <pricePerKg>5,04</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz long grain sachet cuisson 10min</name>
+    <price>1,99</price>
+    <pricePerKg>3,98</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz long grain cuisson rapide vrac 10 min</name>
+    <price>1,99</price>
+    <pricePerKg>3,98</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz long grain tradition vrac 20min</name>
+    <price>3,65</price>
+    <pricePerKg>3,65</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz long grain cuisson rapide vrac 10 min</name>
+    <price>3,35</price>
+    <pricePerKg>3,35</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz long grain cuisson rapide 10 min x 5</name>
+    <price>3,35</price>
+    <pricePerKg>3,35</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz long grain cuisson 10 mn</name>
+    <price>1,32</price>
+    <pricePerKg>2,64</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz long grain</name>
+    <price>1,99</price>
+    <pricePerKg>1,99</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz long grain cuisson 10 mn</name>
+    <price>2,19</price>
+    <pricePerKg>2,19</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz étuvé long grain cuisson 10 mn</name>
+    <price>2,00</price>
+    <pricePerKg>2,00</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz étuvé 10min x 5</name>
+    <price>1,59</price>
+    <pricePerKg>3,53</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz étuvé 10min x 5</name>
+    <price>2,69</price>
+    <pricePerKg>2,99</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz 5min x 5</name>
+    <price>1,75</price>
+    <pricePerKg>3,89</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz complet cuisson rapide vrac 12min</name>
+    <price>2,29</price>
+    <pricePerKg>4,58</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz semi-complet</name>
+    <price>2,29</price>
+    <pricePerKg>4,58</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Risotto expresso aux champignons</name>
+    <price>2,85</price>
+    <pricePerKg>11,40</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz à la Méditerranéenne</name>
+    <price>1,22</price>
+    <pricePerKg>4,88</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Basmati</name>
+    <price>1,10</price>
+    <pricePerKg>4,40</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Doypack riz basmati nature 2min</name>
+    <price>2,35</price>
+    <pricePerKg>9,40</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Doypack riz basmati tomate et légumes du soleil 2mn</name>
+    <price>2,26</price>
+    <pricePerKg>9,04</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Doypack riz basmati épices du monde 2mn</name>
+    <price>2,26</price>
+    <pricePerKg>9,04</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Doypack basmati tomate et légumes du soleil 2mn</name>
+    <price>1,89</price>
+    <pricePerKg>8,59</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Doypack basmati riz nature 2min</name>
+    <price>1,89</price>
+    <pricePerKg>8,59</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Doypack basmati épices du monde 2mn</name>
+    <price>1,89</price>
+    <pricePerKg>8,59</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz rond dessert</name>
+    <price>2,35</price>
+    <pricePerKg>2,35</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz arborio pour risotto</name>
+    <price>1,92</price>
+    <pricePerKg>3,84</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz blanc pour risotto</name>
+    <price>2,95</price>
+    <pricePerKg>5,90</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz pour risotto</name>
+    <price>3,79</price>
+    <pricePerKg>3,79</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz arborio bio</name>
+    <price>3,96</price>
+    <pricePerKg>7,92</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz pour risotto</name>
+    <price>2,22</price>
+    <pricePerKg>4,44</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz  spécial risotto BIO</name>
+    <price>2,84</price>
+    <pricePerKg>5,68</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Thaï</name>
+    <price>2,64</price>
+    <pricePerKg>2,64</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Thai BIO</name>
+    <price>3,50</price>
+    <pricePerKg>7,00</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz Thai</name>
+    <price>3,99</price>
+    <pricePerKg>3,99</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Riz thaï de l'isan</name>
+    <price>2,35</price>
+    <pricePerKg>4,70</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Lait aromatisé goût choco-coco</name>
+    <price>2,86</price>
+    <pricePerKg>2,38</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Boisson au lait et au cacao</name>
+    <price>4,90</price>
+    <pricePerKg>3,27</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Boisson chocolat allégé en sucres</name>
+    <price>2,84</price>
+    <pricePerKg>2,37</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait aromatisé chocolat</name>
+    <price>2,49</price>
+    <pricePerKg>3,11</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Boisson lactée chocolatée UHT</name>
+    <price>1,90</price>
+    <pricePerKg>1,90</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Boisson lactée chocolaté UHT</name>
+    <price>2,79</price>
+    <pricePerKg>2,33</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Boisson lactée fraise</name>
+    <price>2,79</price>
+    <pricePerKg>2,33</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Boisson lactée vanille</name>
+    <price>2,79</price>
+    <pricePerKg>2,33</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait aromatisé chocolat</name>
+    <price>1,65</price>
+    <pricePerKg>5,50</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait aromatisé chocolat</name>
+    <price>4,40</price>
+    <pricePerKg>3,67</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait aromatisé chocolat</name>
+    <price>2,51</price>
+    <pricePerKg>2,51</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Pro+ boisson lactée protéinée saveur chocolat</name>
+    <price>2,19</price>
+    <pricePerKg>4,38</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Caffè latte cappuccino</name>
+    <price>3,09</price>
+    <pricePerKg>5,15</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Caffè latte classico</name>
+    <price>3,09</price>
+    <pricePerKg>5,15</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait matin léger au café au lait UHT sans lactose</name>
+    <price>1,52</price>
+    <pricePerKg>3,04</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Bouteille 1/2 écrémé lait de brebis</name>
+    <price>3,79</price>
+    <pricePerKg>3,79</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait de chèvre 1/2 écrémé</name>
+    <price>9,18</price>
+    <pricePerKg>3,06</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait de chèvre - Bouteille 1/2 écrémé</name>
+    <price>2,46</price>
+    <pricePerKg>2,46</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait 1/2 écrémé UHT</name>
+    <price>7,62</price>
+    <pricePerKg>1,27</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Gandlait 1/2 écrémé UHT</name>
+    <price>0,99</price>
+    <pricePerKg>1,98</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>GrandLait 1/2 écrémé UHT</name>
+    <price>4,26</price>
+    <pricePerKg>2,84</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait viva 1/2 écrémé vitaminé</name>
+    <price>1,05</price>
+    <pricePerKg>2,10</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Le lait de ma Région 1/2 écrémé UHT</name>
+    <price>1,29</price>
+    <pricePerKg>1,29</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Grandlait 1/2 écrémé UHT</name>
+    <price>7,56</price>
+    <pricePerKg>1,26</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>GrandLait demi-écrémé Collecte dans des fermes sélectionnées 1 litre</name>
+    <price>1,89</price>
+    <pricePerKg>1,26</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>GrandLait  1/2 écrémé UHT</name>
+    <price>1,79</price>
+    <pricePerKg>1,79</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait viva 1/2 écrémé vitaminé</name>
+    <price>1,43</price>
+    <pricePerKg>1,43</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait vitaminé 1/2 écrémé UHT</name>
+    <price>7,26</price>
+    <pricePerKg>1,21</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait 1/2 écrémé UHT</name>
+    <price>4,86</price>
+    <pricePerKg>1,62</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait 1/2 écrémé UHT</name>
+    <price>6,18</price>
+    <pricePerKg>1,03</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait 1/2 écrémé  UHT</name>
+    <price>6,48</price>
+    <pricePerKg>1,08</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait filière bouteille</name>
+    <price>7,14</price>
+    <pricePerKg>1,19</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait matin léger 1/2 écrémé UHT sans lactose</name>
+    <price>1,81</price>
+    <pricePerKg>1,81</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait 1/2 écrémé UHT</name>
+    <price>4,20</price>
+    <pricePerKg>2,80</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait 1/2 écrémé UHT</name>
+    <price>4,92</price>
+    <pricePerKg>3,28</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Bouteille 1/2 écremé</name>
+    <price>0,99</price>
+    <pricePerKg>1,98</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait matin léger 1/2 écrémé UHT sans lactose</name>
+    <price>0,85</price>
+    <pricePerKg>3,40</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait 1/2 écrémé UHT</name>
+    <price>1,17</price>
+    <pricePerKg>2,34</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait matin léger 1/2 écrémé sans lactose</name>
+    <price>1,21</price>
+    <pricePerKg>2,42</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Matin léger bio 1,2 % matière grasse</name>
+    <price>2,34</price>
+    <pricePerKg>2,34</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait 1/2 écrémé</name>
+    <price>1,57</price>
+    <pricePerKg>1,57</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait 1/2 écrémé UHT</name>
+    <price>7,74</price>
+    <pricePerKg>1,29</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait 1/2 écrémé UHT</name>
+    <price>10,00</price>
+    <pricePerKg>1,25</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait 1/2 écrémé UHT</name>
+    <price>5,58</price>
+    <pricePerKg>0,93</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait 1/2 écrémé UHT</name>
+    <price>6,24</price>
+    <pricePerKg>1,04</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait 1/2 écrémé UHT</name>
+    <price>0,93</price>
+    <pricePerKg>1,86</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait 1/2 écrémé UHT</name>
+    <price>1,22</price>
+    <pricePerKg>1,22</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait entier UHT</name>
+    <price>1,28</price>
+    <pricePerKg>1,28</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait entier UHT</name>
+    <price>1,35</price>
+    <pricePerKg>1,35</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>LAIT ENTIER PASTEURISE</name>
+    <price>1,80</price>
+    <pricePerKg>1,80</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait entier UHT</name>
+    <price>4,92</price>
+    <pricePerKg>3,28</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait entier UHT</name>
+    <price>1,18</price>
+    <pricePerKg>2,36</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait entier UHT</name>
+    <price>8,52</price>
+    <pricePerKg>2,84</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait entier UHT</name>
+    <price>1,80</price>
+    <pricePerKg>1,80</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait entier UHT</name>
+    <price>2,09</price>
+    <pricePerKg>2,09</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait fermenté</name>
+    <price>1,81</price>
+    <pricePerKg>1,81</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait fermenté nature Laban</name>
+    <price>2,29</price>
+    <pricePerKg>2,29</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Kéfir lait fermenté</name>
+    <price>1,81</price>
+    <pricePerKg>3,62</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait ribot</name>
+    <price>2,16</price>
+    <pricePerKg>2,16</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait fermenté nature</name>
+    <price>1,66</price>
+    <pricePerKg>1,66</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais 1/2 écrémé</name>
+    <price>1,85</price>
+    <pricePerKg>1,85</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais 1/2 écrémé</name>
+    <price>2,55</price>
+    <pricePerKg>1,70</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais demi écrémé pasteurise sans lactose</name>
+    <price>1,49</price>
+    <pricePerKg>1,49</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait 1/2 écréme UHT</name>
+    <price>1,22</price>
+    <pricePerKg>1,22</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais de montagne demi écrémé</name>
+    <price>1,46</price>
+    <pricePerKg>1,46</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais entier</name>
+    <price>2,09</price>
+    <pricePerKg>2,09</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais entier</name>
+    <price>2,65</price>
+    <pricePerKg>1,77</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais entier pasteurise sans lactose</name>
+    <price>1,69</price>
+    <pricePerKg>1,69</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais entier</name>
+    <price>1,85</price>
+    <pricePerKg>1,85</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais de montagne entier</name>
+    <price>1,60</price>
+    <pricePerKg>1,60</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais entier</name>
+    <price>1,35</price>
+    <pricePerKg>1,35</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait entier pasteurisé</name>
+    <price>1,40</price>
+    <pricePerKg>1,40</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait sans lactose - Doux et léger facile à digérer 1% MG</name>
+    <price>9,54</price>
+    <pricePerKg>1,59</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait écrémé UHT</name>
+    <price>1,05</price>
+    <pricePerKg>1,05</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait écrémé UHT</name>
+    <price>1,09</price>
+    <pricePerKg>1,09</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Matin léger bio sans lactose</name>
+    <price>1,57</price>
+    <pricePerKg>3,14</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait matin léger écrémé UHT sans lactose</name>
+    <price>1,25</price>
+    <pricePerKg>2,50</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Matin léger bio écremé sans lactose</name>
+    <price>2,31</price>
+    <pricePerKg>2,31</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait écrémé UHT</name>
+    <price>1,73</price>
+    <pricePerKg>1,73</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait écrémé UHT</name>
+    <price>1,45</price>
+    <pricePerKg>1,45</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait matin léger écrémé UHT sans lactose</name>
+    <price>1,99</price>
+    <pricePerKg>1,99</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait entier UHT</name>
+    <price>1,35</price>
+    <pricePerKg>1,35</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>LAIT ENTIER PASTEURISE</name>
+    <price>1,80</price>
+    <pricePerKg>1,80</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait entier UHT</name>
+    <price>4,92</price>
+    <pricePerKg>3,28</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait entier UHT</name>
+    <price>1,18</price>
+    <pricePerKg>2,36</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait entier UHT</name>
+    <price>8,52</price>
+    <pricePerKg>2,84</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait entier UHT</name>
+    <price>1,80</price>
+    <pricePerKg>1,80</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait entier UHT</name>
+    <price>2,09</price>
+    <pricePerKg>2,09</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait fermenté</name>
+    <price>1,81</price>
+    <pricePerKg>1,81</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait fermenté nature Laban</name>
+    <price>2,29</price>
+    <pricePerKg>2,29</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Kéfir lait fermenté</name>
+    <price>1,81</price>
+    <pricePerKg>3,62</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait ribot</name>
+    <price>2,16</price>
+    <pricePerKg>2,16</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait fermenté nature</name>
+    <price>1,66</price>
+    <pricePerKg>1,66</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais 1/2 écrémé</name>
+    <price>1,85</price>
+    <pricePerKg>1,85</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais 1/2 écrémé</name>
+    <price>2,55</price>
+    <pricePerKg>1,70</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais demi écrémé pasteurise sans lactose</name>
+    <price>1,49</price>
+    <pricePerKg>1,49</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait 1/2 écréme UHT</name>
+    <price>1,22</price>
+    <pricePerKg>1,22</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais de montagne demi écrémé</name>
+    <price>1,46</price>
+    <pricePerKg>1,46</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais entier</name>
+    <price>2,09</price>
+    <pricePerKg>2,09</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais entier</name>
+    <price>2,65</price>
+    <pricePerKg>1,77</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais entier pasteurise sans lactose</name>
+    <price>1,69</price>
+    <pricePerKg>1,69</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais entier</name>
+    <price>1,85</price>
+    <pricePerKg>1,85</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais de montagne entier</name>
+    <price>1,60</price>
+    <pricePerKg>1,60</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait frais entier</name>
+    <price>1,35</price>
+    <pricePerKg>1,35</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait entier pasteurisé</name>
+    <price>1,40</price>
+    <pricePerKg>1,40</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait sans lactose - Doux et léger facile à digérer 1% MG</name>
+    <price>9,54</price>
+    <pricePerKg>1,59</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait écrémé UHT</name>
+    <price>1,05</price>
+    <pricePerKg>1,05</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait écrémé UHT</name>
+    <price>1,09</price>
+    <pricePerKg>1,09</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Matin léger bio sans lactose</name>
+    <price>1,57</price>
+    <pricePerKg>3,14</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait matin léger écrémé UHT sans lactose</name>
+    <price>1,25</price>
+    <pricePerKg>2,50</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Matin léger bio écremé sans lactose</name>
+    <price>2,31</price>
+    <pricePerKg>2,31</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait écrémé UHT</name>
+    <price>1,73</price>
+    <pricePerKg>1,73</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait écrémé UHT</name>
+    <price>1,45</price>
+    <pricePerKg>1,45</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait matin léger écrémé UHT sans lactose</name>
+    <price>1,99</price>
+    <pricePerKg>1,99</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait aromatisé goût choco-coco</name>
+    <price>2,86</price>
+    <pricePerKg>2,38</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Boisson au lait et au cacao</name>
+    <price>4,90</price>
+    <pricePerKg>3,27</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Boisson chocolat allégé en sucres</name>
+    <price>2,84</price>
+    <pricePerKg>2,37</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait aromatisé chocolat</name>
+    <price>2,49</price>
+    <pricePerKg>3,11</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Boisson lactée chocolatée UHT</name>
+    <price>1,90</price>
+    <pricePerKg>1,90</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Boisson lactée chocolaté UHT</name>
+    <price>2,79</price>
+    <pricePerKg>2,33</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Boisson lactée fraise</name>
+    <price>2,79</price>
+    <pricePerKg>2,33</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Boisson lactée vanille</name>
+    <price>2,79</price>
+    <pricePerKg>2,33</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait aromatisé chocolat</name>
+    <price>1,65</price>
+    <pricePerKg>5,50</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait aromatisé chocolat</name>
+    <price>4,40</price>
+    <pricePerKg>3,67</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait aromatisé chocolat</name>
+    <price>2,51</price>
+    <pricePerKg>2,51</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Pro+ boisson lactée protéinée saveur chocolat</name>
+    <price>2,19</price>
+    <pricePerKg>4,38</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Caffè latte cappuccino</name>
+    <price>3,09</price>
+    <pricePerKg>5,15</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Caffè latte classico</name>
+    <price>3,09</price>
+    <pricePerKg>5,15</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait matin léger au café au lait UHT sans lactose</name>
+    <price>1,52</price>
+    <pricePerKg>3,04</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Bouteille 1/2 écrémé lait de brebis</name>
+    <price>3,79</price>
+    <pricePerKg>3,79</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait de chèvre 1/2 écrémé</name>
+    <price>9,18</price>
+    <pricePerKg>3,06</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait de chèvre - Bouteille 1/2 écrémé</name>
+    <price>2,46</price>
+    <pricePerKg>2,46</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait 1/2 écrémé UHT</name>
+    <price>7,62</price>
+    <pricePerKg>1,27</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Gandlait 1/2 écrémé UHT</name>
+    <price>0,99</price>
+    <pricePerKg>1,98</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>GrandLait 1/2 écrémé UHT</name>
+    <price>4,26</price>
+    <pricePerKg>2,84</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait viva 1/2 écrémé vitaminé</name>
+    <price>1,05</price>
+    <pricePerKg>2,10</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Le lait de ma Région 1/2 écrémé UHT</name>
+    <price>1,29</price>
+    <pricePerKg>1,29</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Grandlait 1/2 écrémé UHT</name>
+    <price>7,56</price>
+    <pricePerKg>1,26</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait sans lactose - Doux et léger facile à digérer 1% MG</name>
+    <price>9,54</price>
+    <pricePerKg>1,59</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait écrémé UHT</name>
+    <price>1,05</price>
+    <pricePerKg>1,05</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait écrémé UHT</name>
+    <price>1,09</price>
+    <pricePerKg>1,09</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Matin léger bio sans lactose</name>
+    <price>1,57</price>
+    <pricePerKg>3,14</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait matin léger écrémé UHT sans lactose</name>
+    <price>1,25</price>
+    <pricePerKg>2,50</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Matin léger bio écremé sans lactose</name>
+    <price>2,31</price>
+    <pricePerKg>2,31</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait écrémé UHT</name>
+    <price>1,73</price>
+    <pricePerKg>1,73</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait écrémé UHT</name>
+    <price>1,45</price>
+    <pricePerKg>1,45</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lait matin léger écrémé UHT sans lactose</name>
+    <price>1,99</price>
+    <pricePerKg>1,99</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Oeufs bio tout calibre</name>
+    <price>4,49</price>
+    <pricePerKg>0,45</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs bio tout calibre</name>
+    <price>2,95</price>
+    <pricePerKg>0,49</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs bio calibre gros</name>
+    <price>3,22</price>
+    <pricePerKg>0,54</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs bio tout calibre</name>
+    <price>3,55</price>
+    <pricePerKg>0,59</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs frais bio</name>
+    <price>2,99</price>
+    <pricePerKg>0,50</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs fermiers liberté BIO</name>
+    <price>5,40</price>
+    <pricePerKg>0,54</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs fermiers bio calibre moyen</name>
+    <price>3,68</price>
+    <pricePerKg>0,61</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs fermiers calibre gros</name>
+    <price>2,55</price>
+    <pricePerKg>0,64</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs calibre très gros</name>
+    <price>2,05</price>
+    <pricePerKg>0,51</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air bio calibre moyen</name>
+    <price>2,35</price>
+    <pricePerKg>0,39</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air bio tout calibre</name>
+    <price>3,79</price>
+    <pricePerKg>0,38</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air bio calibre moyen</name>
+    <price>5,49</price>
+    <pricePerKg>0,37</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs bio</name>
+    <price>3,19</price>
+    <pricePerKg>0,53</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs bio</name>
+    <price>4,69</price>
+    <pricePerKg>0,47</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs bio calibre moyen</name>
+    <price>3,39</price>
+    <pricePerKg>0,56</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs bio</name>
+    <price>5,25</price>
+    <pricePerKg>0,44</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs fermiers calibre gros</name>
+    <price>0,55</price>
+    <pricePerKg>0,55</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>6 Oeufs Fermier Label Rouge Calibre gros</name>
+    <price>2,64</price>
+    <pricePerKg>0,44</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>6 oeufs fermier Label Rouge Calibre gros</name>
+    <price>2,70</price>
+    <pricePerKg>0,45</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs sol calibre gros</name>
+    <price>2,09</price>
+    <pricePerKg>0,35</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs sol calibre gros</name>
+    <price>3,65</price>
+    <pricePerKg>0,30</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs sol Franche-Comté datés du jour de ponte, calibre gros</name>
+    <price>2,19</price>
+    <pricePerKg>0,36</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs sol Franche-Comté, datés du jour de ponte, calibre gros</name>
+    <price>3,65</price>
+    <pricePerKg>0,30</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Gros Oeufs sol coque poules nées, élevées dans nos régions Françaises</name>
+    <price>1,99</price>
+    <pricePerKg>0,33</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs sol « Moment Fraîcheur »</name>
+    <price>3,29</price>
+    <pricePerKg>0,27</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs frais sol datés du jour de ponte Paroles d éleveurs</name>
+    <price>3,79</price>
+    <pricePerKg>0,32</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs frais datés tout calibre</name>
+    <price>3,09</price>
+    <pricePerKg>0,26</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>12 oeufs frais de poule élevées au sol</name>
+    <price>3,29</price>
+    <pricePerKg>0,27</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs extra frais plein air</name>
+    <price>1,99</price>
+    <pricePerKg>0,33</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs frais calibre gros</name>
+    <price>1,59</price>
+    <pricePerKg>0,27</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs frais calibre moyen</name>
+    <price>2,59</price>
+    <pricePerKg>0,22</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>6 oeufs matines fraicheur coque issus de poules élevées au sol calibre gros très gros</name>
+    <price>1,95</price>
+    <pricePerKg>0,32</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs frais Parole d'éleveurs</name>
+    <price>1,81</price>
+    <pricePerKg>0,30</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>x 10</name>
+    <price>1,78</price>
+    <pricePerKg>0,18</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs sol</name>
+    <price>3,95</price>
+    <pricePerKg>0,33</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs sol calibre gros</name>
+    <price>2,39</price>
+    <pricePerKg>0,40</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs sol calibre moyen</name>
+    <price>5,45</price>
+    <pricePerKg>0,27</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs gros coque</name>
+    <price>1,95</price>
+    <pricePerKg>0,32</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>12 oeufs datés jour de ponte Tout Frais Tout Français</name>
+    <price>3,19</price>
+    <pricePerKg>0,27</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air label rouge calibre gros</name>
+    <price>1,99</price>
+    <pricePerKg>0,33</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air label rouge calibre moyen</name>
+    <price>3,55</price>
+    <pricePerKg>0,30</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs label rouge tout calibre</name>
+    <price>2,35</price>
+    <pricePerKg>0,39</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs label rouge calibre gros</name>
+    <price>2,20</price>
+    <pricePerKg>0,55</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs label rouge calibre moyen</name>
+    <price>2,51</price>
+    <pricePerKg>0,42</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs label rouge calibre moyen</name>
+    <price>4,57</price>
+    <pricePerKg>0,38</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs de caille</name>
+    <price>3,90</price>
+    <pricePerKg>0,22</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air calibre gros</name>
+    <price>2,45</price>
+    <pricePerKg>0,41</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air calibre moyen</name>
+    <price>3,85</price>
+    <pricePerKg>0,32</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>1,94</price>
+    <pricePerKg>0,32</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air Franche-Comté, datés du jour de ponte, calibre moyen</name>
+    <price>3,95</price>
+    <pricePerKg>0,33</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>3,09</price>
+    <pricePerKg>0,26</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Cocorette oeuf blanc plein air vrac moyen/gros</name>
+    <price>0,55</price>
+    <pricePerKg>0,55</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air calibre moyen</name>
+    <price>1,79</price>
+    <pricePerKg>0,30</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air Saveurs en Or tout calibre</name>
+    <price>3,39</price>
+    <pricePerKg>0,28</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air Franche-Comté datés du jour de ponte, calibre gros</name>
+    <price>2,35</price>
+    <pricePerKg>0,39</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air calibre moyen</name>
+    <price>3,29</price>
+    <pricePerKg>0,27</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air calibre très gros</name>
+    <price>1,99</price>
+    <pricePerKg>0,33</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air calibre gros</name>
+    <price>1,69</price>
+    <pricePerKg>0,28</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air tout calibre</name>
+    <price>3,79</price>
+    <pricePerKg>0,25</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air calibre gros</name>
+    <price>1,29</price>
+    <pricePerKg>0,32</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air tout calibre</name>
+    <price>2,19</price>
+    <pricePerKg>0,36</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air tout calibre</name>
+    <price>4,09</price>
+    <pricePerKg>0,34</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>1,99</price>
+    <pricePerKg>0,33</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>0,45</price>
+    <pricePerKg>0,45</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs frais plein air</name>
+    <price>0,35</price>
+    <pricePerKg>0,35</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Boîte de 6 oeufs plein air</name>
+    <price>2,40</price>
+    <pricePerKg>2,40</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>2,09</price>
+    <pricePerKg>0,35</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plateau</name>
+    <price>7,75</price>
+    <pricePerKg>0,26</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air tout calibre</name>
+    <price>2,15</price>
+    <pricePerKg>0,36</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air tout calibre</name>
+    <price>3,99</price>
+    <pricePerKg>0,33</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air tout calibre</name>
+    <price>1,25</price>
+    <pricePerKg>0,31</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>2,09</price>
+    <pricePerKg>0,35</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>2,99</price>
+    <pricePerKg>0,25</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>1,99</price>
+    <pricePerKg>0,33</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>3,75</price>
+    <pricePerKg>0,31</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>6 Oeufs plein air Calibre gros</name>
+    <price>1,89</price>
+    <pricePerKg>0,31</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air calibre moyen</name>
+    <price>2,10</price>
+    <pricePerKg>0,35</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air tout calibre</name>
+    <price>3,45</price>
+    <pricePerKg>0,29</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>2,69</price>
+    <pricePerKg>0,45</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air calibre moyen</name>
+    <price>5,99</price>
+    <pricePerKg>0,30</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>3,45</price>
+    <pricePerKg>0,34</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeuf de poule élevée en plein air</name>
+    <price>0,45</price>
+    <pricePerKg>0,45</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Gros oeufs plein air</name>
+    <price>0,55</price>
+    <pricePerKg>0,55</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Gros oeufs riesthal BIO</name>
+    <price>0,55</price>
+    <pricePerKg>0,55</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>1,94</price>
+    <pricePerKg>0,32</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air Franche-Comté, datés du jour de ponte, calibre moyen</name>
+    <price>3,95</price>
+    <pricePerKg>0,33</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>3,09</price>
+    <pricePerKg>0,26</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Cocorette oeuf blanc plein air vrac moyen/gros</name>
+    <price>0,55</price>
+    <pricePerKg>0,55</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air calibre moyen</name>
+    <price>1,79</price>
+    <pricePerKg>0,30</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air Saveurs en Or tout calibre</name>
+    <price>3,39</price>
+    <pricePerKg>0,28</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air Franche-Comté datés du jour de ponte, calibre gros</name>
+    <price>2,35</price>
+    <pricePerKg>0,39</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air calibre moyen</name>
+    <price>3,29</price>
+    <pricePerKg>0,27</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air calibre très gros</name>
+    <price>1,99</price>
+    <pricePerKg>0,33</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air calibre gros</name>
+    <price>1,69</price>
+    <pricePerKg>0,28</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air tout calibre</name>
+    <price>3,79</price>
+    <pricePerKg>0,25</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air calibre gros</name>
+    <price>1,29</price>
+    <pricePerKg>0,32</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air tout calibre</name>
+    <price>2,19</price>
+    <pricePerKg>0,36</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air tout calibre</name>
+    <price>4,09</price>
+    <pricePerKg>0,34</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>1,99</price>
+    <pricePerKg>0,33</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>0,45</price>
+    <pricePerKg>0,45</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs frais plein air</name>
+    <price>0,35</price>
+    <pricePerKg>0,35</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Boîte de 6 oeufs plein air</name>
+    <price>2,40</price>
+    <pricePerKg>2,40</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>2,09</price>
+    <pricePerKg>0,35</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plateau</name>
+    <price>7,75</price>
+    <pricePerKg>0,26</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air tout calibre</name>
+    <price>2,15</price>
+    <pricePerKg>0,36</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air tout calibre</name>
+    <price>3,99</price>
+    <pricePerKg>0,33</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air tout calibre</name>
+    <price>1,25</price>
+    <pricePerKg>0,31</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>2,09</price>
+    <pricePerKg>0,35</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>2,99</price>
+    <pricePerKg>0,25</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>1,99</price>
+    <pricePerKg>0,33</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>3,75</price>
+    <pricePerKg>0,31</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>6 Oeufs plein air Calibre gros</name>
+    <price>1,89</price>
+    <pricePerKg>0,31</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air calibre moyen</name>
+    <price>2,10</price>
+    <pricePerKg>0,35</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air tout calibre</name>
+    <price>3,45</price>
+    <pricePerKg>0,29</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>2,69</price>
+    <pricePerKg>0,45</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air calibre moyen</name>
+    <price>5,99</price>
+    <pricePerKg>0,30</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>3,45</price>
+    <pricePerKg>0,34</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeuf de poule élevée en plein air</name>
+    <price>0,45</price>
+    <pricePerKg>0,45</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Gros oeufs plein air</name>
+    <price>0,55</price>
+    <pricePerKg>0,55</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Gros oeufs riesthal BIO</name>
+    <price>0,55</price>
+    <pricePerKg>0,55</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs bio tout calibre</name>
+    <price>4,49</price>
+    <pricePerKg>0,45</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs bio tout calibre</name>
+    <price>2,95</price>
+    <pricePerKg>0,49</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs bio calibre gros</name>
+    <price>3,22</price>
+    <pricePerKg>0,54</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs bio tout calibre</name>
+    <price>3,55</price>
+    <pricePerKg>0,59</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs frais bio</name>
+    <price>2,99</price>
+    <pricePerKg>0,50</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs fermiers liberté BIO</name>
+    <price>5,40</price>
+    <pricePerKg>0,54</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs fermiers bio calibre moyen</name>
+    <price>3,68</price>
+    <pricePerKg>0,61</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs fermiers calibre gros</name>
+    <price>2,55</price>
+    <pricePerKg>0,64</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs calibre très gros</name>
+    <price>2,05</price>
+    <pricePerKg>0,51</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air bio calibre moyen</name>
+    <price>2,35</price>
+    <pricePerKg>0,39</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air bio tout calibre</name>
+    <price>3,79</price>
+    <pricePerKg>0,38</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air bio calibre moyen</name>
+    <price>5,49</price>
+    <pricePerKg>0,37</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs bio</name>
+    <price>3,19</price>
+    <pricePerKg>0,53</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs bio</name>
+    <price>4,69</price>
+    <pricePerKg>0,47</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs bio calibre moyen</name>
+    <price>3,39</price>
+    <pricePerKg>0,56</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs bio</name>
+    <price>5,25</price>
+    <pricePerKg>0,44</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs fermiers calibre gros</name>
+    <price>0,55</price>
+    <pricePerKg>0,55</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>6 Oeufs Fermier Label Rouge Calibre gros</name>
+    <price>2,64</price>
+    <pricePerKg>0,44</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>6 oeufs fermier Label Rouge Calibre gros</name>
+    <price>2,70</price>
+    <pricePerKg>0,45</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs sol calibre gros</name>
+    <price>2,09</price>
+    <pricePerKg>0,35</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs sol calibre gros</name>
+    <price>3,65</price>
+    <pricePerKg>0,30</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs sol Franche-Comté datés du jour de ponte, calibre gros</name>
+    <price>2,19</price>
+    <pricePerKg>0,36</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs sol Franche-Comté, datés du jour de ponte, calibre gros</name>
+    <price>3,65</price>
+    <pricePerKg>0,30</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Gros Oeufs sol coque poules nées, élevées dans nos régions Françaises</name>
+    <price>1,99</price>
+    <pricePerKg>0,33</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>2,99</price>
+    <pricePerKg>0,25</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>1,99</price>
+    <pricePerKg>0,33</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>3,75</price>
+    <pricePerKg>0,31</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>6 Oeufs plein air Calibre gros</name>
+    <price>1,89</price>
+    <pricePerKg>0,31</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air calibre moyen</name>
+    <price>2,10</price>
+    <pricePerKg>0,35</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air tout calibre</name>
+    <price>3,45</price>
+    <pricePerKg>0,29</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>2,69</price>
+    <pricePerKg>0,45</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air calibre moyen</name>
+    <price>5,99</price>
+    <pricePerKg>0,30</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeufs plein air</name>
+    <price>3,45</price>
+    <pricePerKg>0,34</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Oeuf de poule élevée en plein air</name>
+    <price>0,45</price>
+    <pricePerKg>0,45</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Gros oeufs plein air</name>
+    <price>0,55</price>
+    <pricePerKg>0,55</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Gros oeufs riesthal BIO</name>
+    <price>0,55</price>
+    <pricePerKg>0,55</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Farine pâtissière</name>
+    <price>0,98</price>
+    <pricePerKg>0,98</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé fluide</name>
+    <price>0,99</price>
+    <pricePerKg>0,99</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé  tous usages</name>
+    <price>1,29</price>
+    <pricePerKg>1,29</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé T55</name>
+    <price>0,85</price>
+    <pricePerKg>0,85</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine fluide</name>
+    <price>1,20</price>
+    <pricePerKg>1,20</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé Type 65 BIO</name>
+    <price>1,25</price>
+    <pricePerKg>1,25</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé label rouge T65</name>
+    <price>0,99</price>
+    <pricePerKg>0,99</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé  suprême</name>
+    <price>2,09</price>
+    <pricePerKg>2,09</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé de l'Est T55</name>
+    <price>1,30</price>
+    <pricePerKg>1,30</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé BIO</name>
+    <price>2,30</price>
+    <pricePerKg>2,30</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine fluide</name>
+    <price>1,10</price>
+    <pricePerKg>1,10</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine label rouge 1kg Francine</name>
+    <price>1,59</price>
+    <pricePerKg>1,59</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé pour gâteaux</name>
+    <price>1,74</price>
+    <pricePerKg>1,74</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine complète de blé  BIO</name>
+    <price>1,76</price>
+    <pricePerKg>1,76</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé</name>
+    <price>1,30</price>
+    <pricePerKg>1,30</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé étui pratique</name>
+    <price>1,62</price>
+    <pricePerKg>2,16</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine à pizza</name>
+    <price>1,82</price>
+    <pricePerKg>1,82</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de sarrasin multi-usages</name>
+    <price>2,84</price>
+    <pricePerKg>2,84</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine</name>
+    <price>7,90</price>
+    <pricePerKg>1,58</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine pour pain multi céréales 2kg Francine</name>
+    <price>2,90</price>
+    <pricePerKg>1,93</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de gruau T45</name>
+    <price>1,75</price>
+    <pricePerKg>1,75</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé T550  BIO</name>
+    <price>1,49</price>
+    <pricePerKg>1,49</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé pâtissière T45</name>
+    <price>2,35</price>
+    <pricePerKg>2,35</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé complète en boite</name>
+    <price>2,15</price>
+    <pricePerKg>2,15</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé T65</name>
+    <price>2,30</price>
+    <pricePerKg>2,30</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de riz</name>
+    <price>2,99</price>
+    <pricePerKg>5,98</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de châtaigne</name>
+    <price>6,48</price>
+    <pricePerKg>12,96</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine à  pain</name>
+    <price>2,89</price>
+    <pricePerKg>1,93</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine d'épeautre type 1050</name>
+    <price>2,49</price>
+    <pricePerKg>2,49</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé type 45 Abbaye Trappiste</name>
+    <price>5,80</price>
+    <pricePerKg>2,32</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé noir</name>
+    <price>3,21</price>
+    <pricePerKg>3,21</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé bas carbone</name>
+    <price>1,30</price>
+    <pricePerKg>1,30</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé blanche</name>
+    <price>2,49</price>
+    <pricePerKg>2,49</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine d épeautre T150</name>
+    <price>3,66</price>
+    <pricePerKg>3,66</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé Type 405</name>
+    <price>1,79</price>
+    <pricePerKg>1,79</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine pour préparation pain d'épices</name>
+    <price>5,45</price>
+    <pricePerKg>10,90</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine complète de sarrasin</name>
+    <price>2,90</price>
+    <pricePerKg>5,80</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine d'épeautre complet BIO</name>
+    <price>2,19</price>
+    <pricePerKg>2,19</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé type 65 Abbaye Trappiste</name>
+    <price>4,60</price>
+    <pricePerKg>1,84</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé complet BIO</name>
+    <price>1,59</price>
+    <pricePerKg>1,59</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé tous usages</name>
+    <price>1,30</price>
+    <pricePerKg>1,30</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de sarrasin BIO</name>
+    <price>2,49</price>
+    <pricePerKg>4,98</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de pois chiches</name>
+    <price>3,06</price>
+    <pricePerKg>6,12</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine d épeautre demi-complète</name>
+    <price>3,86</price>
+    <pricePerKg>3,86</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de seigle complet 1kg Alnatura</name>
+    <price>1,69</price>
+    <pricePerKg>1,69</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine d'épeautre 630g Alnatura</name>
+    <price>2,39</price>
+    <pricePerKg>2,39</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de maïs BIO</name>
+    <price>1,99</price>
+    <pricePerKg>3,98</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de coco BIO</name>
+    <price>2,29</price>
+    <pricePerKg>7,63</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé 1050g Alnatura</name>
+    <price>1,79</price>
+    <pricePerKg>1,79</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de kamut complète T150</name>
+    <price>2,95</price>
+    <pricePerKg>5,90</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine 7 céréales</name>
+    <price>2,37</price>
+    <pricePerKg>4,74</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine pâte à pizza</name>
+    <price>2,05</price>
+    <pricePerKg>4,02</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine T45</name>
+    <price>1,20</price>
+    <pricePerKg>1,20</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé</name>
+    <price>2,17</price>
+    <pricePerKg>2,17</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé T80 en conversion vers l agriculture biologique</name>
+    <price>1,99</price>
+    <pricePerKg>1,99</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé T 55</name>
+    <price>4,75</price>
+    <pricePerKg>2,38</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine T65</name>
+    <price>1,76</price>
+    <pricePerKg>1,76</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine pour lier sans gluten</name>
+    <price>3,16</price>
+    <pricePerKg>15,80</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine complète de petit épeautre T 110 Charente</name>
+    <price>4,49</price>
+    <pricePerKg>8,98</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de sarrasin Bretagne</name>
+    <price>3,86</price>
+    <pricePerKg>7,72</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé intégrale T 150 Normandie</name>
+    <price>3,36</price>
+    <pricePerKg>3,36</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Vers de farine 300 g</name>
+    <price>8,50</price>
+    <pricePerKg>8,50</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine blé semi complète du Gers BIO</name>
+    <price>3,65</price>
+    <pricePerKg>3,65</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Pain grillé à la farine de froment x22</name>
+    <price>2,99</price>
+    <pricePerKg>6,57</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Croustia - Pain azyme à la farine de  froment</name>
+    <price>4,45</price>
+    <pricePerKg>11,12</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Muffins 7 graines à la farine complète x4</name>
+    <price>3,58</price>
+    <pricePerKg>14,32</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Mix pané mélange de farine pour pain sans gluten</name>
+    <price>7,19</price>
+    <pricePerKg>7,05</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Préparation pour crêpes</name>
+    <price>1,99</price>
+    <pricePerKg>5,24</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Ma brioche maison</name>
+    <price>2,90</price>
+    <pricePerKg>1,93</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Préparation pour gaufres</name>
+    <price>2,04</price>
+    <pricePerKg>5,83</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Son de blé</name>
+    <price>1,74</price>
+    <pricePerKg>3,48</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Préparation pour pain au céréales</name>
+    <price>1,90</price>
+    <pricePerKg>1,90</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Préparation pour pain de seigle</name>
+    <price>1,70</price>
+    <pricePerKg>1,70</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Préparation pour pain de campagne</name>
+    <price>1,60</price>
+    <pricePerKg>1,60</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Préparation pour pain complet</name>
+    <price>1,40</price>
+    <pricePerKg>1,40</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé 1050g Alnatura</name>
+    <price>1,79</price>
+    <pricePerKg>1,79</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de kamut complète T150</name>
+    <price>2,95</price>
+    <pricePerKg>5,90</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine 7 céréales</name>
+    <price>2,37</price>
+    <pricePerKg>4,74</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine pâte à pizza</name>
+    <price>2,05</price>
+    <pricePerKg>4,02</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine T45</name>
+    <price>1,20</price>
+    <pricePerKg>1,20</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé</name>
+    <price>2,17</price>
+    <pricePerKg>2,17</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé T80 en conversion vers l agriculture biologique</name>
+    <price>1,99</price>
+    <pricePerKg>1,99</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé T 55</name>
+    <price>4,75</price>
+    <pricePerKg>2,38</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine T65</name>
+    <price>1,76</price>
+    <pricePerKg>1,76</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine pour lier sans gluten</name>
+    <price>3,16</price>
+    <pricePerKg>15,80</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine complète de petit épeautre T 110 Charente</name>
+    <price>4,49</price>
+    <pricePerKg>8,98</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de sarrasin Bretagne</name>
+    <price>3,86</price>
+    <pricePerKg>7,72</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé intégrale T 150 Normandie</name>
+    <price>3,36</price>
+    <pricePerKg>3,36</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Vers de farine 300 g</name>
+    <price>8,50</price>
+    <pricePerKg>8,50</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine blé semi complète du Gers BIO</name>
+    <price>3,65</price>
+    <pricePerKg>3,65</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Pain grillé à la farine de froment x22</name>
+    <price>2,99</price>
+    <pricePerKg>6,57</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Croustia - Pain azyme à la farine de  froment</name>
+    <price>4,45</price>
+    <pricePerKg>11,12</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Muffins 7 graines à la farine complète x4</name>
+    <price>3,58</price>
+    <pricePerKg>14,32</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Mix pané mélange de farine pour pain sans gluten</name>
+    <price>7,19</price>
+    <pricePerKg>7,05</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Préparation pour crêpes</name>
+    <price>1,99</price>
+    <pricePerKg>5,24</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Ma brioche maison</name>
+    <price>2,90</price>
+    <pricePerKg>1,93</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Préparation pour gaufres</name>
+    <price>2,04</price>
+    <pricePerKg>5,83</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Son de blé</name>
+    <price>1,74</price>
+    <pricePerKg>3,48</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Préparation pour pain au céréales</name>
+    <price>1,90</price>
+    <pricePerKg>1,90</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Préparation pour pain de seigle</name>
+    <price>1,70</price>
+    <pricePerKg>1,70</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Préparation pour pain de campagne</name>
+    <price>1,60</price>
+    <pricePerKg>1,60</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Préparation pour pain complet</name>
+    <price>1,40</price>
+    <pricePerKg>1,40</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine pâtissière</name>
+    <price>0,98</price>
+    <pricePerKg>0,98</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé fluide</name>
+    <price>0,99</price>
+    <pricePerKg>0,99</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé  tous usages</name>
+    <price>1,29</price>
+    <pricePerKg>1,29</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé T55</name>
+    <price>0,85</price>
+    <pricePerKg>0,85</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine fluide</name>
+    <price>1,20</price>
+    <pricePerKg>1,20</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé Type 65 BIO</name>
+    <price>1,25</price>
+    <pricePerKg>1,25</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé label rouge T65</name>
+    <price>0,99</price>
+    <pricePerKg>0,99</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé  suprême</name>
+    <price>2,09</price>
+    <pricePerKg>2,09</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé de l'Est T55</name>
+    <price>1,30</price>
+    <pricePerKg>1,30</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé BIO</name>
+    <price>2,30</price>
+    <pricePerKg>2,30</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine fluide</name>
+    <price>1,10</price>
+    <pricePerKg>1,10</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine label rouge 1kg Francine</name>
+    <price>1,59</price>
+    <pricePerKg>1,59</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé pour gâteaux</name>
+    <price>1,74</price>
+    <pricePerKg>1,74</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine complète de blé  BIO</name>
+    <price>1,76</price>
+    <pricePerKg>1,76</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé</name>
+    <price>1,30</price>
+    <pricePerKg>1,30</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé étui pratique</name>
+    <price>1,62</price>
+    <pricePerKg>2,16</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine à pizza</name>
+    <price>1,82</price>
+    <pricePerKg>1,82</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de sarrasin multi-usages</name>
+    <price>2,84</price>
+    <pricePerKg>2,84</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine</name>
+    <price>7,90</price>
+    <pricePerKg>1,58</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine pour pain multi céréales 2kg Francine</name>
+    <price>2,90</price>
+    <pricePerKg>1,93</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de gruau T45</name>
+    <price>1,75</price>
+    <pricePerKg>1,75</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé T550  BIO</name>
+    <price>1,49</price>
+    <pricePerKg>1,49</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé pâtissière T45</name>
+    <price>2,35</price>
+    <pricePerKg>2,35</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Farine de blé complète en boite</name>
+    <price>2,15</price>
+    <pricePerKg>2,15</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Préparation pour pain de seigle</name>
+    <price>1,70</price>
+    <pricePerKg>1,70</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Préparation pour pain de campagne</name>
+    <price>1,60</price>
+    <pricePerKg>1,60</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Préparation pour pain de campagne</name>
+    <price>1,60</price>
+    <pricePerKg>1,60</pricePerKg>
+    <type>farine</type>
+  </product>
+</products>

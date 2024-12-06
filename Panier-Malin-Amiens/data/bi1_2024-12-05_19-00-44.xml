@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <name>Pouce Riz long blanc 1kg</name>
+    <price>1,39 €</price>
+    <pricePerKg>1,39 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Taureau Ailé Riz kamâlis 500g</name>
+    <price>2,85 €</price>
+    <pricePerKg>5,70 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Vivien Paille Riz rond spéciale dessert 1kg</name>
+    <price>2,85 €</price>
+    <pricePerKg>2,85 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Ben's Original Riz complet 12 min 500g</name>
+    <price>2,19 €</price>
+    <pricePerKg>4,38 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Taureau Ailé Sélection de 3 riz 500g</name>
+    <price>2,29 €</price>
+    <pricePerKg>4,58 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Lustucru Riz basmati sélection 10 min 5x90g</name>
+    <price>2,45 €</price>
+    <pricePerKg>5,44 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Taureau Ailé Riz basmati extra long 450g</name>
+    <price>2,79 €</price>
+    <pricePerKg>6,20 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Ben's Original Riz long grain 20 min 1kg</name>
+    <price>3,75 €</price>
+    <pricePerKg>3,75 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Lustucru Riz long grain incollable 10 min 900g</name>
+    <price>2,99 €</price>
+    <pricePerKg>3,32 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Lustucru Riz long grain incollable 10 min 5x180g</name>
+    <price>2,35 €</price>
+    <pricePerKg>2,61 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Ben's Original Riz long grain 10 min 1kg</name>
+    <price>3,59 €</price>
+    <pricePerKg>3,59 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Ben's Original Riz long grain 10 min 5x200g</name>
+    <price>3,59 €</price>
+    <pricePerKg>3,59 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Ben's Original Riz long grain 10 min 500g</name>
+    <price>1,99 €</price>
+    <pricePerKg>3,98 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Ben's Original Riz long grain 10 min 4x125g</name>
+    <price>2,15 €</price>
+    <pricePerKg>4,30 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Taureau Ailé Riz basmati du Penjab 11 min 500g</name>
+    <price>2,49 €</price>
+    <pricePerKg>4,98 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Taureau Ailé Riz basmati du Penjab 11 min 1kg</name>
+    <price>3,99 €</price>
+    <pricePerKg>3,99 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Auchan Riz cantonais 900g</name>
+    <price>5,25 €</price>
+    <pricePerKg>5,83 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Auchan Riz basmati 1kg</name>
+    <price>2,99 €</price>
+    <pricePerKg>2,99 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Auchan BIO Riz basmati 1kg</name>
+    <price>3,65 €</price>
+    <pricePerKg>1,84 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Auchan Riz complet vrac 10min 500g</name>
+    <price>1,69 €</price>
+    <pricePerKg>3,38 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Auchan Gourmet Riz basmati d'Himalaya 1kg</name>
+    <price>4,29 €</price>
+    <pricePerKg>4,29 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Auchan Gourmet Riz parfumé Thaï 1kg</name>
+    <price>4,39 €</price>
+    <pricePerKg>4,39 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Auchan Riz long grain 10 min 5x200g</name>
+    <price>2,25 €</price>
+    <pricePerKg>2,25 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Auchan Riz basmati-arroz 11 min 500g</name>
+    <price>1,59 €</price>
+    <pricePerKg>3,18 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Taureau Ailé Riz basmati à la coco 220g</name>
+    <price>1,95 €</price>
+    <pricePerKg>8,86 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Auchan BIO Riz basmati 500g</name>
+    <price>1,79 €</price>
+    <pricePerKg>3,58 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Auchan Riz arroz thaï 1kg</name>
+    <price>2,45 €</price>
+    <pricePerKg>2,45 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Auchan Riz arroz thaï 500g</name>
+    <price>1,95 €</price>
+    <pricePerKg>3,90 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Auchan Riz cantonais 2mn 250g</name>
+    <price>1,45 €</price>
+    <pricePerKg>5,80 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>La Laitière Gâteau de riz 500g</name>
+    <price>2,55 €</price>
+    <pricePerKg>5,10 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Bjorg Riz cuisine BIO 20cl</name>
+    <price>1,69 €</price>
+    <pricePerKg>8,45 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Marie Tomates farcies &amp; riz 360g</name>
+    <price>4,90 €</price>
+    <pricePerKg>13,61 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Auchan Riz long grain incollable 5 min x5 450g</name>
+    <price>1,79 €</price>
+    <pricePerKg>3,98 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Taureau Ailé Riz basmati au épices du monde 220g</name>
+    <price>1,99 €</price>
+    <pricePerKg>9,05 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Mas du BIO Mélange 3 riz de Camargue IGP 500g</name>
+    <price>6,25 €</price>
+    <pricePerKg>12,50 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Mas du BIO Riz rond blanc de Camargue IGP 500g</name>
+    <price>3,79 €</price>
+    <pricePerKg>7,58 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Mas du BIO Riz semi-complet de Camargue IGP 500g</name>
+    <price>3,29 €</price>
+    <pricePerKg>6,58 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Mas du BIO Riz long blanc de Camargue IGP 500g</name>
+    <price>3,49 €</price>
+    <pricePerKg>6,98 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Mas du BIO Duo de riz de Camargue IGP 500g</name>
+    <price>4,65 €</price>
+    <pricePerKg>9,30 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Auchan Riz basmati 2 mn 250g</name>
+    <price>1,15 €</price>
+    <pricePerKg>4,60 €</pricePerKg>
+    <type>riz</type>
+  </product>
+  <product>
+    <name>Auchan Lait demi-écrémé 6x1L</name>
+    <price>7,50 €</price>
+    <pricePerKg>1,25 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Auchan Lait demi-écrémé 8x1L</name>
+    <price>9,52 €</price>
+    <pricePerKg>1,19 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Auchan Lait de chèvre demi-écrémé 6x1L</name>
+    <price>12,90 €</price>
+    <pricePerKg>2,15 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Auchan Lait demi écrémé stérilisé 6x50cl</name>
+    <price>5,70 €</price>
+    <pricePerKg>1,90 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Auchan Lait écrémé 0% 6x1L</name>
+    <price>7,50 €</price>
+    <pricePerKg>1,25 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Auchan Lait entier 6x1L</name>
+    <price>8,10 €</price>
+    <pricePerKg>1,35 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Auchan BIO Lait demi-écrémé 6x50cl</name>
+    <price>6,30 €</price>
+    <pricePerKg>2,10 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lactel Lait pasteurisé demi-écrémé 1L</name>
+    <price>1,99 €</price>
+    <pricePerKg>1,99 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Viva Lait demi-écrémé vitaminé 6x50cl</name>
+    <price>6,54 €</price>
+    <pricePerKg>2,18 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lactel Lait demi-écrémé 6x1L</name>
+    <price>8,34 €</price>
+    <pricePerKg>1,39 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Grandlait Lait demi-écrémé 6x50cl</name>
+    <price>6,90 €</price>
+    <pricePerKg>2,30 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Grandlait Lait demi-écrémé 6x25cl</name>
+    <price>5,10 €</price>
+    <pricePerKg>3,40 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Candia Lait frais demi-écrémé 1L</name>
+    <price>1,49 €</price>
+    <pricePerKg>1,49 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Candia Lait demi-écrémé 6x1L</name>
+    <price>8,10 €</price>
+    <pricePerKg>1,35 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Pouce Lait demi-écrémé stérilisé 6x1L</name>
+    <price>5,70 €</price>
+    <pricePerKg>0,95 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Pouce Lait demi-écrémé 1L</name>
+    <price>0,95 €</price>
+    <pricePerKg>0,95 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Auchan BIO Lait demi-écrémé équitable 6x1L</name>
+    <price>8,40 €</price>
+    <pricePerKg>1,40 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Auchan BIO Lait entier 6x1L</name>
+    <price>10,14 €</price>
+    <pricePerKg>1,69 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lactel Lait BIO demi-écrémé 6x50cl</name>
+    <price>7,14 €</price>
+    <pricePerKg>2,38 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lactel Lait BIO demi-écrémé 6x1L</name>
+    <price>10,50 €</price>
+    <pricePerKg>1,75 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lactel Lait matin léger demi-écrémé 6x50cl</name>
+    <price>8,10 €</price>
+    <pricePerKg>2,70 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lactel Lait matin léger demi-écrémé 6x1L</name>
+    <price>11,94 €</price>
+    <pricePerKg>1,99 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Régilait Lait concentré sucré 300g</name>
+    <price>1,85 €</price>
+    <pricePerKg>6,17 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Nestlé Lait concentré sucré 397g</name>
+    <price>2,09 €</price>
+    <pricePerKg>5,26 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Régilait Lait demi-écrémé en poudre 300g</name>
+    <price>2,49 €</price>
+    <pricePerKg>8,30 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Régilait Lait entier en poudre 300g</name>
+    <price>3,15 €</price>
+    <pricePerKg>10,50 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Régilait Lait concentré sucré 60g</name>
+    <price>0,69 €</price>
+    <pricePerKg>11,50 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>La Laitière Riz au lait saveur vanille 4x115g</name>
+    <price>2,19 €</price>
+    <pricePerKg>4,76 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>La Laitière Semoule au lait saveur vanille 4x115g</name>
+    <price>2,05 €</price>
+    <pricePerKg>4,46 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Auchan Chocolat au lait cœur de lait 2x100g</name>
+    <price>2,25 €</price>
+    <pricePerKg>11,25 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Auchan Lait écrémé en poudre 300g</name>
+    <price>2,35 €</price>
+    <pricePerKg>7,83 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Toblerone Lait 3x100g</name>
+    <price>4,45 €</price>
+    <pricePerKg>14,83 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Régilait Nuage de lait non sucré x10 75g</name>
+    <price>0,67 €</price>
+    <pricePerKg>8,93 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Nestlé Lait concentré sucré en tube 165g</name>
+    <price>1,49 €</price>
+    <pricePerKg>9,03 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Auchan Lait concentré non sucré 410g</name>
+    <price>1,59 €</price>
+    <pricePerKg>3,88 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>La Laitière Secret de mousse chocolat au lait 4x59g</name>
+    <price>2,19 €</price>
+    <pricePerKg>9,28 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Mixa bébé Lait de toilette 300ml</name>
+    <price>3,35 €</price>
+    <pricePerKg>Prix par kg indisponible</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Auchan Jumblies lait 400g</name>
+    <price>2,29 €</price>
+    <pricePerKg>5,73 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Lindt Lindor lait 287g</name>
+    <price>12,39 €</price>
+    <pricePerKg>43,17 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Knoppers Lait &amp; noisettes 6x25g</name>
+    <price>2,39 €</price>
+    <pricePerKg>15,93 €</pricePerKg>
+    <type>lait</type>
+  </product>
+  <product>
+    <name>Loué Œufs moyen fermier x6</name>
+    <price>2,89 €</price>
+    <pricePerKg>0,48 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Loué Œufs BIO moyen fermier x6</name>
+    <price>4,05 €</price>
+    <pricePerKg>0,67 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Loué Œufs moyen poules élevées en plein air x12</name>
+    <price>5,10 €</price>
+    <pricePerKg>0,43 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>La Nouvelle Agriculture Œufs poules élevées en plein air x6</name>
+    <price>2,29 €</price>
+    <pricePerKg>0,38 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>La Nouvelle Agriculture Œufs BIO x6</name>
+    <price>3,69 €</price>
+    <pricePerKg>0,62 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>La Nouvelle Agriculture Œufs poules élevées en plein air x12</name>
+    <price>4,25 €</price>
+    <pricePerKg>0,35 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>L'Œuf de nos Villages Gros œufs BIO poules élevées en plein air x6</name>
+    <price>3,45 €</price>
+    <pricePerKg>0,58 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>L'Œuf de nos Villages Œufs plein airs x6</name>
+    <price>2,05 €</price>
+    <pricePerKg>0,34 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>L'Œuf de nos Villages Gros œufs BIO poules élevées en plein air x10</name>
+    <price>4,95 €</price>
+    <pricePerKg>0,50 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>L'Œuf de nos Villages Œufs moyen poules élevées en plein air x12</name>
+    <price>3,85 €</price>
+    <pricePerKg>0,32 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>bi1 Œufs moyens de poules élevées au sol x20</name>
+    <price>5,95 €</price>
+    <pricePerKg>0,30 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>bi1 Œufs moyens de poules élevées en plein air oméga3 x18</name>
+    <price>5,81 €</price>
+    <pricePerKg>0,32 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>bi1 Œufs BIO moyen de poules oméga3 x15</name>
+    <price>6,69 €</price>
+    <pricePerKg>0,45 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Douce France Œufs tous calibres poules élevées en plein air x6</name>
+    <price>2,25 €</price>
+    <pricePerKg>0,38 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>bi1 Gros œufs de poules élevées au sol x6</name>
+    <price>1,85 €</price>
+    <pricePerKg>0,31 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>bi1 Œufs gros poules élevées en plein air x6</name>
+    <price>2,10 €</price>
+    <pricePerKg>0,35 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>bi1 Œufs BIO moyen de poules oméga3 x6</name>
+    <price>2,65 €</price>
+    <pricePerKg>0,44 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>bi1 Œufs BIO moyen de poules oméga3 x10</name>
+    <price>4,35 €</price>
+    <pricePerKg>0,43 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Coquy Œufs de poules élevées au sol x10</name>
+    <price>2,15 €</price>
+    <pricePerKg>0,22 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>bi1 Œufs moyens de poules élevées au sol x12</name>
+    <price>3,35 €</price>
+    <pricePerKg>0,28 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>bi1 Œufs moyens de poules élevées en plein air omega3 x12</name>
+    <price>4,05 €</price>
+    <pricePerKg>0,34 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Douce France Œufs poules élevées en plein air x12</name>
+    <price>4,15 €</price>
+    <pricePerKg>0,35 €</pricePerKg>
+    <type>oeufs</type>
+  </product>
+  <product>
+    <name>Moulins de Vincelottes Farine boulangère pain courant 2kg</name>
+    <price>3,67 €</price>
+    <pricePerKg>1,84 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Moulins de Vincelottes Farine de blé type 45 1kg</name>
+    <price>1,29 €</price>
+    <pricePerKg>1,29 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Moulins de Vincelottes Farine d'épeautre 1kg</name>
+    <price>2,15 €</price>
+    <pricePerKg>2,15 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Auchan Farine pour pain de campagne 1kg</name>
+    <price>2,29 €</price>
+    <pricePerKg>2,29 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Francine Farine de blé pour gâteaux 1kg</name>
+    <price>1,85 €</price>
+    <pricePerKg>1,85 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Francine Farine de blé BIO type 55 1kg</name>
+    <price>2,15 €</price>
+    <pricePerKg>2,15 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Auchan Farine de blé type 45 1kg</name>
+    <price>0,99 €</price>
+    <pricePerKg>0,99 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Auchan BIO Farine de blé T65 1kg</name>
+    <price>1,19 €</price>
+    <pricePerKg>1,19 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Pouce Farine de blé type 55 1kg</name>
+    <price>0,80 €</price>
+    <pricePerKg>0,80 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Francine Farine de blé type 45 1kg</name>
+    <price>1,32 €</price>
+    <pricePerKg>1,32 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Francine Farine de blé suprême type 45 1kg</name>
+    <price>2,25 €</price>
+    <pricePerKg>2,25 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Moulins de Vincelottes Farine à pizza tipo 00 1kg</name>
+    <price>1,55 €</price>
+    <pricePerKg>1,55 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Auchan Farine de blé fluide type 45 1kg</name>
+    <price>0,99 €</price>
+    <pricePerKg>0,99 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Auchan BIO Pain grillé farine complète x12 250g</name>
+    <price>1,89 €</price>
+    <pricePerKg>7,56 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Francine Farine de blé fluide type 45 1kg</name>
+    <price>1,39 €</price>
+    <pricePerKg>1,39 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Roger Mini toasts aixois à la farine complète 150g</name>
+    <price>1,69 €</price>
+    <pricePerKg>11,27 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Auchan BIO Farine de blé semi-complète T110 1kg</name>
+    <price>1,59 €</price>
+    <pricePerKg>1,59 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Auchan Gourmet Farine de sarrasin au blé noir 1kg</name>
+    <price>2,99 €</price>
+    <pricePerKg>2,99 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Moulins de Vincelottes Farine de blé type 65 2kg</name>
+    <price>2,29 €</price>
+    <pricePerKg>1,15 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Roger Mini toasts aixois à la farine de seigle 150g</name>
+    <price>1,69 €</price>
+    <pricePerKg>11,27 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Francine Ma levure boulangère pains &amp; brioches 30g</name>
+    <price>1,35 €</price>
+    <pricePerKg>45,00 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Francine Ma levure BIO boulangère 36g</name>
+    <price>2,45 €</price>
+    <pricePerKg>68,06 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Alsa Sucre vanillé BIO x6 45g</name>
+    <price>3,49 €</price>
+    <pricePerKg>77,56 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Alsa Poudre à lever BIO x5 50g</name>
+    <price>1,15 €</price>
+    <pricePerKg>23,00 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Daddy Petits cubes BIO pure canne 500g</name>
+    <price>2,55 €</price>
+    <pricePerKg>5,10 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Tipiak Fine chapelure de pain 275g</name>
+    <price>0,75 €</price>
+    <pricePerKg>2,73 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Tipiak Fécule 250g</name>
+    <price>0,99 €</price>
+    <pricePerKg>3,96 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Tipiak Tapioca grain 300g</name>
+    <price>2,15 €</price>
+    <pricePerKg>7,17 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Tipiak Tapioca fin express 300g</name>
+    <price>2,15 €</price>
+    <pricePerKg>7,17 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Floraline 500g</name>
+    <price>2,49 €</price>
+    <pricePerKg>4,98 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Auchan Levure de boulangerie spéciale pain 6x5g</name>
+    <price>0,89 €</price>
+    <pricePerKg>29,67 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Francine Ma pâte à pizza 510g</name>
+    <price>1,99 €</price>
+    <pricePerKg>3,90 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Daddy Sucre BIO fleur de coco 230g</name>
+    <price>3,39 €</price>
+    <pricePerKg>14,74 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Auchan Fécule de maïs 400g</name>
+    <price>1,49 €</price>
+    <pricePerKg>3,72 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Maizena Roux pour béchamel 250g</name>
+    <price>2,31 €</price>
+    <pricePerKg>9,24 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Tipiak Chapelure dorée 250g</name>
+    <price>0,95 €</price>
+    <pricePerKg>3,80 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Francine Ma pâte à crêpes 380g</name>
+    <price>2,05 €</price>
+    <pricePerKg>5,39 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Daddy Sucre en poudre BIO pure canne 750g</name>
+    <price>3,29 €</price>
+    <pricePerKg>4,39 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Maizena Fleur de maïs 400g</name>
+    <price>1,99 €</price>
+    <pricePerKg>4,98 €</pricePerKg>
+    <type>farine</type>
+  </product>
+  <product>
+    <name>Maple Joe Sirop d'érable BIO 250g</name>
+    <price>6,25 €</price>
+    <pricePerKg>25,00 €</pricePerKg>
+    <type>farine</type>
+  </product>
+</products>
