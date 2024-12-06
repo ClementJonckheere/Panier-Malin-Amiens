@@ -97,21 +97,30 @@ class ApiProduitController extends AbstractController
         return $this->json(['message' => 'Produit supprimé'], Response::HTTP_NO_CONTENT);
     }
 
-    #[Route('/comparaison/{produit_id}', name: 'api_produits_comparaison', methods: ['GET'])]
-    public function comparaison(int $produit_id): JsonResponse
+
+    #[Route('/comparaison/{type}', name: 'api_produits_comparaison', methods: ['GET'])]
+    public function comparaison(string $type): JsonResponse
     {
-        $produits = $this->produitRepository->findBy(['id' => $produit_id]);
+        // Récupérer les produits du type donné
+        $produits = $this->produitRepository->findBy(['type' => $type]);
 
         if (!$produits) {
-            return $this->json(['message' => 'Produit non trouvé'], Response::HTTP_NOT_FOUND);
+            return $this->json(['message' => 'Aucun produit trouvé pour ce type'], Response::HTTP_NOT_FOUND);
         }
 
+        // Trier les produits par prix (du moins cher au plus cher)
+        usort($produits, function ($a, $b) {
+            return $a->getPrice() <=> $b->getPrice();
+        });
+
+        // Créer un tableau structuré avec distinction des sources
         $comparaison = [];
         foreach ($produits as $produit) {
             $comparaison[] = [
-                'source' => $produit->getSource(),
+                'name' => $produit->getName(),
                 'price' => $produit->getPrice(),
                 'pricePerKg' => $produit->getPricePerKg(),
+                'source' => $produit->getSource(),
             ];
         }
 
