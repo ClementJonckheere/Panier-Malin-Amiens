@@ -102,7 +102,6 @@ class Produit
     #[Groups(['produit:read', 'produit:write'])]
     private ?string $source = null;
 
-// Getter et setter pour `source`
     public function getSource(): ?string
     {
         return $this->source;

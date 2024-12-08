@@ -25,10 +25,8 @@ class ImportProductsCommand extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
-        // Votre logique d'importation
         $output->writeln('Importation des produits...');
 
-        // Exemple d'ajout d'un produit
         $produit = new Produit();
         $produit->setName('Exemple Produit');
         $produit->setPrice(10.99);

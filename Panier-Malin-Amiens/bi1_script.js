@@ -4,8 +4,8 @@ const puppeteer = require('puppeteer');
     const url = process.argv[2];
     const browser = await puppeteer.launch({
         executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || '/usr/bin/chromium',
-        headless: true, // Utilisez headless pour éviter d'ouvrir une fenêtre
-        args: ['--no-sandbox', '--disable-setuid-sandbox'], // Nécessaire pour Puppeteer dans Docker
+        headless: true,
+        args: ['--no-sandbox', '--disable-setuid-sandbox'],
     });
     const page = await browser.newPage();
 
