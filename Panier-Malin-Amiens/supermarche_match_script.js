@@ -1,13 +1,13 @@
 const puppeteer = require('puppeteer');
 
-const baseUrl = process.argv[2]; // URL de recherche
-const productType = process.argv[3]; // Type de produit (riz, lait, etc.)
+const baseUrl = process.argv[2];
+const productType = process.argv[3];
 
 (async () => {
     const browser = await puppeteer.launch({
         executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || '/usr/bin/chromium',
-        headless: true, // Utilisez headless pour éviter d'ouvrir une fenêtre
-        args: ['--no-sandbox', '--disable-setuid-sandbox'], // Nécessaire pour Puppeteer dans Docker
+        headless: true,
+        args: ['--no-sandbox', '--disable-setuid-sandbox'],
     });
     const page = await browser.newPage();
 
@@ -18,7 +18,6 @@ const productType = process.argv[3]; // Type de produit (riz, lait, etc.)
         const url = `${baseUrl}&p=${pageIndex}`;
         await page.goto(url, { waitUntil: 'networkidle2' });
 
-        // Ajout d'un délai pour permettre à la page de charger complètement
         await new Promise(resolve => setTimeout(resolve, 3000));
 
         try {
